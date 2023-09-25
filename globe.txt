@@ -1,0 +1,715 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Etymology
+Pre-modern era
+Toggle Pre-modern era subsection
+Modern era
+Toggle Modern era subsection
+History of cartography's technological changes
+See also
+Toggle See also subsection
+Notes
+Citations
+References
+External links
+History of cartography
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+
+This article's lead section may be too short to adequately summarize the key points. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. (July 2017)
+The history of cartography refers to the development and consequences of cartography, or mapmaking technology, throughout human history. Maps have been one of the most important human inventions for millennia, allowing humans to explain and navigate their way through the world.
+
+When and how the earliest maps were made is unclear, but maps of local terrain are believed to have been independently invented by many cultures. The earliest surviving maps include cave paintings and etchings on tusk and stone. Maps were produced extensively by ancient Babylon, Greece, Rome, China, and India.
+
+The earliest maps ignored the curvature of Earth's surface, both because the shape of the Earth was uncertain and because the curvature is not important across the small areas being mapped. However, since the age of Classical Greece, maps of large regions, and especially of the world, have used projection from a model globe in order to control how the inevitable distortion gets apportioned on the map.
+
+Modern methods of transportation, the use of surveillance aircraft, and more recently the availability of satellite imagery have made documentation of many areas possible that were previously inaccessible. Free online services such as Google Earth have made accurate maps of the world more accessible than ever before.
+
+Etymology
+The English term cartography is modern, borrowed from the French cartographie in the 1840s, itself based on Middle Latin carta "map".
+
+Pre-modern era
+Earliest known maps
+
+Possibly the oldest surviving map has been engraved on this mammoth tusk, dated to 25,000 BC, found from Pavlov in the Czech Republic.
+It is not always clear whether an ancient artifact had been wrought as a map or as something else. The definition of "map" is also not precise. Thus, no single artifact is generally accepted to be the earliest surviving map. Candidates include:
+
+A map-like representation of a mountain, river, valleys and routes around Pavlov in the Czech Republic, carved on a mammoth tusk, that has been dated to 25,000 BC.[1]
+An Aboriginal Australian cylcon that may be as much as 20,000 years old that is thought to depict the Darling River.[2]
+A map etched on a mammoth bone at Mezhyrich that is about 15,000 years old.
+Dots dating to 14,500 BC found on the walls of the Lascaux caves map of part of the night sky, including the three bright stars Vega, Deneb, and Altair (the Summer Triangle asterism), as well as the Pleiades star cluster. The Cuevas de El Castillo in Spain that contains a dot map of the Corona Borealis constellation dating from 12,000 BC.[3][4][5]
+A polished chunk of sandstone from a cave in Spanish Navarre, dated to 14,000 BC, that may be symbols for landscape features, such as hills or dwellings,[6] superimposed on animal etchings. Alternatively, it may also represent a spiritual landscape, or simple incisings.[7][8]
+Another ancient picture that resembles a map that was created in the late 7th millennium BC in Çatalhöyük, Anatolia, modern Turkey. This wall painting may represent a plan of this Neolithic village;[9] however, recent scholarship has questioned the identification of this painting as a map.[10]
+The "Saint-Bélec slab" (2200 to 1600 BC), whose lines and symbols have been argued to represent a cadastral plan of a part of western Brittany.[11]
+Ancient Near East
+
+Clay tablet with map of the Babylonian city of Nippur (c. 1400 BC)
+Maps in Ancient Babylonia were made by using accurate surveying techniques.[12] For example, a 7.6 × 6.8 cm clay tablet found in 1930 at Ga-Sur, near contemporary Kirkuk, shows a map of a river valley between two hills. Cuneiform inscriptions label the features on the map, including a plot of land described as 354 iku (12 hectares) that was owned by a person called Azala. Most scholars date the tablet to the 25th to 24th century BC. Hills are shown by overlapping semicircles, rivers by lines, and cities by circles. The map also is marked to show the cardinal directions.[13] An engraved map from the Kassite period (14th–12th centuries BC) of Babylonian history shows walls and buildings in the holy city of Nippur.[14]
+
+The Babylonian World Map, the earliest surviving map of the world (c. 600 BC), is a symbolic, not a literal representation. It deliberately omits peoples such as the Persians and Egyptians, who were well known to the Babylonians. The area shown is depicted as a circular shape surrounded by water, which fits the religious image of the world in which the Babylonians believed.
+
+Phoenician sailors made major advances in seafaring and exploration. It is recorded that the first circumnavigation of Africa was possibly undertaken by Phoenician explorers employed by Egyptian pharaoh Necho II c. 610–595 BC.[15][16] In The Histories, written 431–425 BC, Herodotus cast doubt on a report of the Sun observed shining from the north. He stated that the phenomenon was observed by Phoenician explorers during their circumnavigation of Africa (The Histories, 4.42) who claimed to have had the Sun on their right when circumnavigating in a clockwise direction. To modern historians, these details confirm the truth of the Phoenicians' report, and even suggest the possibility that the Phoenicians knew about the spherical Earth model. However, nothing certain about their knowledge of geography and navigation has survived.[15] The historian Dmitri Panchenko theorizes that it was the Phoenician circumnavigation of Africa that inspired the theory of a spherical Earth by the 5th century BC.[16]
+
+Ancient Greece
+Many scholars throughout history, such as Strabo, Kish, and Dilke, consider Homer to be the founder of the early Greek conception of Earth, and therefore of geography. Homer conceived Earth to be a disk surrounded by a constantly moving stream of Ocean,[17]: 22  an idea which would be suggested by the appearance of the horizon as it is seen from a mountaintop or from a seacoast. This model was accepted by the early Greeks. Homer and his Greek contemporaries knew very little of the Earth beyond the Libyan desert of Egypt, the south-west coast of Asia Minor, and the northern boundary of the Greek homeland. Furthermore, the coast of the Black Sea was only known through myths and legends that circulated during his time. In his poems there is no mention of Europe and Asia as geographical concepts.[18][full citation needed] That is why the big part of Homer's world that is portrayed on this interpretive map represents lands that border on the Aegean Sea. The Greeks believed that they occupied the central region of Earth and its edges were inhabited by savage, monstrous barbarians and strange animals and monsters: Homer's Odyssey mentions a great many of these.
+
+Additional statements about ancient geography are found in Hesiod's poems, probably written during the 8th century BC.[19] Through the lyrics of Works and Days and Theogony, he shows to his contemporaries some definite geographical knowledge. He introduces the names of such rivers as Nile, Ister (Danube), the shores of the Bosporus and the Euxine (Black Sea), the coast of Gaul, the island of Sicily, and a few other regions and rivers.[20] His advanced geographical knowledge not only had predated Greek colonial expansions, but also was used in the earliest Greek world maps, produced by Greek mapmakers such as Anaximander and Hecataeus of Miletus, and Ptolemy using both observations by explorers and a mathematical approach.
+
+Early steps in the development of intellectual thought in ancient Greece belonged to Ionians from their well-known city of Miletus in Asia Minor. Miletus was placed favourably to absorb aspects of Babylonian knowledge and to profit from the expanding commerce of the Mediterranean. The earliest ancient Greek who is said to have constructed a map of the world is Anaximander of Miletus (c. 611–546 BC), pupil of Thales. He believed that the earth was a cylindrical form, a stone pillar suspended in space.[21] The inhabited part of his world was circular, disk-shaped, and presumably located on the upper surface of the cylinder.[17]: 24 
+
+For constructing his world map, Anaximander is considered by many to be the first mapmaker.[22]: 23  Little is known about the map, which has not survived. Hecataeus of Miletus (550–475 BC) produced another map fifty years later that he claimed was an improved version of the map of his illustrious predecessor.
+
+
+The world according to Hekatæus, 500 BC
+Hecatæus's map describes the earth as disk with an encircling Ocean, and with Greece placed in the center. This was a very popular contemporary Greek worldview, derived originally from the Homeric poems. Also, similar to many other early maps in antiquity, his map has no scale. As units of measurements, this map used "days of sailing" on the sea and "days of marching" on dry land.[23] The purpose of this map was to accompany Hecatæus's geographical work that was called Periodos Ges, or Journey Round the World.[22]: 24  Periodos Ges was divided into two books, "Europe" and "Asia", with the latter including Libya, the name of which was an ancient term for all of known Africa.
+
+The work divides the world into two continents, Asia and Europe. Hecatæus depicts the line between the Pillars of Hercules through the Bosporus, and the Don River as a boundary between the two. He was the first writer known to have thought that the Caspian flows into the encircling ocean—an idea that persisted long into the Hellenic period. He was particularly instructive about the Black Sea, adding many geographic places that already were known to Greeks through the colonization process. To the north of the Danube, according to Hecatæus, were the Rhipæan (gusty) Mountains, beyond which lived the Hyperboreans—peoples of the far north. Hecatæus depicted the origin of the Nile River at the southern encircling ocean. His view of the Nile seems to have been that it came from the southern encircling ocean. This assumption helped Hecatæus propose a solution to the mystery of the annual flooding of the Nile. He believed that the waves of the ocean were a primary cause of this occurrence.[24] A map based on Hecataeus's was intended to aid political decision-making. According to Herodotus, that map was engraved into a bronze tablet and was carried to Sparta by Aristagoras during the revolt of the Ionian cities against Persian rule from 499 to 494 BC.
+
+
+The world according to Anaximenes, c. 500 BC
+Anaximenes of Miletus (6th century BC), who studied under Anaximander, rejected the views of his teacher regarding the shape of the earth and instead, he visualized the earth as a rectangular form supported by compressed air.
+
+Pythagoras of Samos (c. 560–480 BC) speculated about the notion of a spherical earth with a central fire at its core. He is sometimes incorrectly credited with the introduction of a model that divides a spherical earth into five zones: one hot, two temperate, and two cold—northern and southern. This idea, known as the zonal theory of climate, is more likely to have originated at the time of Aristotle.[25]
+
+Scylax, a sailor, made a record of his Mediterranean voyages in c. 515 BC. This is the earliest known set of Greek periploi, or sailing instructions, which became the basis for many future mapmakers, especially in the medieval period.[26]
+
+The way in which the geographical knowledge of the Greeks advanced from the previous assumptions of the Earth's shape was through Herodotus and his conceptual view of the world. This map also did not survive and many have speculated that it was never produced. A possible reconstruction of his map is displayed below.
+
+
+The world according to Herodotus, 440 BC
+Herodotus traveled extensively, collecting information and documenting his findings in his books on Europe, Asia, and Libya. He also combined his knowledge with what he learned from the people he met. Herodotus wrote his Histories in the mid-5th century BC. Although his work was dedicated to the story of long struggle of the Greeks with the Persian Empire, Herodotus also included everything he knew about the geography, history, and peoples of the world. Thus, his work provides a detailed picture of the known world of the 5th century BC.
+
+Herodotus rejected the prevailing view of most 5th-century BC maps that the earth is a disk surrounded by Ocean. In his work he describes the earth as an irregular shape with oceans surrounding only Asia and Africa. He introduces names such as the Atlantic Sea, and the Erythrean Sea, which translates as the "Red Sea". He also divided the world into three continents: Europe, Asia, and Africa. He depicted the boundary of Europe as the line from the Pillars of Hercules through the Bosphorus and the area between the Caspian Sea and the Indus River. He regarded the Nile as the boundary between Asia and Africa. He speculated that the extent of Europe was much greater than was assumed at the time and left Europe's shape to be determined by future research.
+
+In the case of Africa, he believed that, except for the small stretch of land in the vicinity of Suez, the continent was in fact surrounded by water. However, he definitely disagreed with his predecessors and contemporaries about its presumed circular shape. He based his theory on the story of Pharaoh Necho II, the ruler of Egypt between 609 and 594 BC, who had sent Phoenicians to circumnavigate Africa. Apparently, it took them three years, but they certainly did prove his idea. He speculated that the Nile River started as far west as the Ister River (Danube) in Europe and cut Africa through the middle. He was the first writer to assume that the Caspian Sea was separated from other seas and he recognised northern Scythia as one of the coldest inhabited lands in the world.
+
+Similar to his predecessors, Herodotus also made mistakes. He accepted a clear distinction between the civilized Greeks in the center of the earth and the barbarians on the world's edges. In his Histories we can see very clearly that he believed that the world became stranger and stranger when one traveled away from Greece, until one reached the ends of the earth, where humans behaved as savages.
+
+While various previous Greek philosophers presumed the earth to be spherical, Aristotle (384–322 BC) is credited with proving the Earth's sphericity. His arguments may be summarized as follows:
+
+The lunar eclipse is always circular
+Ships seem to sink as they move away from view and pass the horizon
+Some stars can be seen only from certain parts of the Earth.
+Hellenistic Mediterranean
+A vital contribution to mapping the reality of the world came with a scientific estimate of the circumference of the earth. This event has been described as the first scientific attempt to give geographical studies a mathematical basis. The man credited for this achievement was Eratosthenes (275–195 BC), a Greek scholar who lived in Hellenistic North Africa. As described by George Sarton, historian of science, "there was among them [Eratosthenes's contemporaries] a man of genius but as he was working in a new field they were too stupid to recognize him".[27] His work, including On the Measurement of the Earth and Geographica, has only survived in the writings of later philosophers such as Cleomedes and Strabo. He was a devoted geographer who set out to reform and perfect the map of the world. Eratosthenes argued that accurate mapping, even if in two dimensions only, depends upon the establishment of accurate linear measurements. He was the first to calculate the Earth's circumference (within 0.5 percent accuracy).[28] His great achievement in the field of cartography was the use of a new technique of charting with meridians, his imaginary north–south lines, and parallels, his imaginary west–east lines.[29] These axis lines were placed over the map of the earth with their origin in the city of Rhodes and divided the world into sectors. Then, Eratosthenes used these earth partitions to reference places on the map. He also divided Earth into five climatic regions which was proposed at least as early as the late sixth or early fifth century BC by Parmenides: a torrid zone across the middle, two frigid zones at extreme north and south, and two temperate bands in between.[30] He was likely also the first person to use the word "geography".[31]
+
+Roman Empire
+Pomponius Mela
+
+Reconstruction of Pomponius Mela's world map.
+Pomponius Mela is unique among ancient geographers in that, after dividing the earth into five zones, of which two only were habitable, he asserts the existence of antichthones, inhabiting the southern temperate zone inaccessible to the folk of the northern temperate regions from the unbearable heat of the intervening torrid belt. On the divisions and boundaries of Europe, Asia and Africa, he repeats Eratosthenes; like all classical geographers from Alexander the Great (except Ptolemy) he regards the Caspian Sea as an inlet of the Northern Ocean, corresponding to the Persian Gulf and the Red Sea on the south.
+
+Marinus of Tyre
+Main article: Marinus of Tyre
+Marinus of Tyre was a Hellenized Phoenician geographer and cartographer.[32] He founded mathematical geography and provided the underpinnings of Ptolemy's influential Geographia.
+
+Marinus's geographical treatise is lost and known only from Ptolemy's remarks. He introduced improvements to the construction of maps and developed a system of nautical charts. His chief legacy is that he first assigned to each place a proper latitude and longitude. His zero meridian ran through the westernmost land known to him, the Isles of the Blessed around the location of the Canary or Cape Verde Islands. He used the parallel of Rhodes for measurements of latitude. Ptolemy mentions several revisions of Marinus's geographical work, which is often dated to AD 114 although this is uncertain. Marinus estimated a length of 180,000 stadia for the equator, roughly corresponding[a] to a circumference of the Earth of 33,300 km, about 17% less than the actual value.
+
+He also carefully studied the works of his predecessors and the diaries of travelers. His maps were the first in the Roman Empire to show China. He also invented equirectangular projection, which is still used in map creation today. A few of Marinus's opinions are reported by Ptolemy. Marinus was of the opinion that the World Ocean was separated into an eastern and a western part by the continents of Europe, Asia and Africa. He thought that the inhabited world stretched in latitude from Thule (Norway) to Agisymba (around the Tropic of Capricorn) and in longitude from the Isles of the Blessed (around the Canaries) to Shera (China). Marinus also coined the term Antarctic, referring to the opposite of the Arctic Circle.
+
+Ptolemy
+Main article: Geographia
+Ptolemy (90–168), a Hellenized Egyptian,[33][34][35] thought that, with the aid of astronomy and mathematics, the earth could be mapped very accurately. Ptolemy revolutionized the depiction of the spherical earth on a map by using perspective projection, and suggested precise methods for fixing the position of geographic features on its surface using a coordinate system with parallels of latitude and meridians of longitude.[6][36]
+
+Ptolemy's eight-volume atlas Geographia is a prototype of modern mapping and GIS. It included an index of place-names, with the latitude and longitude of each place to guide the search, scale, conventional signs with legends, and the practice of orienting maps so that north is at the top and east to the right of the map—an almost universal custom today.
+
+Yet with all his important innovations, however, Ptolemy was not infallible. His most important error was a miscalculation of the circumference of the earth. He believed that Eurasia covered 180° of the globe, which convinced Christopher Columbus to sail across the Atlantic to look for a simpler and faster way to travel to India. Had Columbus known that the true figure was much greater, it is conceivable that he would never have set out on his momentous voyage.
+
+Tabula Peutingeriana
+
+Modern version of the Roman Tabula Peutingeriana (5th century).
+In 2007, the Tabula Peutingeriana, a 12th-century replica of a 5th-century road map, was placed on the UNESCO Memory of the World Register and displayed to the public for the first time. Although the scroll is well preserved and believed to be an accurate copy of an authentic original, it is on media that is now so delicate that it must be protected at all times from exposure to daylight.[37]
+
+China
+Main articles: Chinese geography and Cartography of China
+The earliest known maps to have survived in China date to the 4th century BC.[38]: 90  In 1986, seven ancient Chinese maps were found in an archeological excavation of a Qin State tomb in what is now Fangmatan, in the vicinity of Tianshui City, Gansu province.[38]: 90  Before this find, the earliest extant maps that were known came from the Mawangdui Han tomb excavation in 1973, which found three maps on silk dated to the 2nd century BC in the early Han dynasty.[38]: 90, 93  The 4th-century BC maps from the State of Qin were drawn with black ink on wooden blocks.[38]: 91  These blocks fortunately survived in soaking conditions due to underground water that had seeped into the tomb; the quality of the wood had much to do with their survival.[38]: 91  After two years of slow-drying techniques, the maps were fully restored.[38]: 91 
+
+The territory shown in the seven Qin maps overlap each other.[38]: 92  The maps display tributary river systems of the Jialing River in Sichuan province, in a total measured area of 107 by 68 km.[38]: 92  The maps featured rectangular symbols encasing character names for the locations of administrative counties.[38]: 92  Rivers and roads are displayed with similar line symbols; this makes interpreting the map somewhat difficult, although the labels of rivers placed in order of stream flow are helpful to modern day cartographers.[38]: 92–93  These maps also feature locations where different types of timber can be gathered, while two of the maps state the distances in mileage to the timber sites.[38]: 93  In light of this, these maps are perhaps the oldest economic maps in the world since they predate Strabo's economic maps.[38]: 93 
+
+In addition to the seven maps on wooden blocks found at Tomb 1 of Fangmatan, a fragment of a paper map was found on the chest of the occupant of Tomb 5 of Fangmatan in 1986. This tomb is dated to the early Western Han, so the map dates to the early 2nd century BC. The map shows topographic features such as mountains, waterways and roads, and is thought to cover the area of the preceding Qin Kingdom.[39][40]
+
+Earliest geographical writing
+In China, the earliest known geographical Chinese writing dates back to the 5th century BC, during the beginning of the Warring States (481–221 BC).[41]: 500  This was the Yu Gong or Tribute of Yu chapter of the Shu Jing or Book of Documents. The book describes the traditional nine provinces, their kinds of soil, their characteristic products and economic goods, their tributary goods, their trades and vocations, their state revenues and agricultural systems, and the various rivers and lakes listed and placed accordingly.[41]: 500  The nine provinces in the time of this geographical work were very small in size compared to their modern Chinese counterparts. The Yu Gong's descriptions pertain to areas of the Yellow River, the lower valleys of the Yangzi, with the plain between them and the Shandong Peninsula, and to the west the most northern parts of the Wei River and the Han River were known (along with the southern parts of modern-day Shanxi province).[41]: 500 
+
+Earliest known reference to a map (圖 tú)
+The oldest reference to a map in China comes from the 3rd century BC.[41]: 534  This was the event of 227 BC where Crown Prince Dan of Yan had his assassin Jing Ke visit the court of the ruler of the State of Qin, who would become the first leader to unify China, Qin Shi Huang (r. 221–210 BC). Jing Ke was to present the ruler of Qin with a district map painted on a silk scroll, rolled up and held in a case where he hid his assassin's dagger.[41]: 534  Handing to him the map of the designated territory was the first diplomatic act of submitting that district to Qin rule.[41]: 534  Jing then tried and failed to kill him. From then on, maps were frequently mentioned in Chinese sources.[41]: 535 
+
+Han dynasty
+
+An early Western Han dynasty (202 BC – 9 AD) silk map found in tomb 3 of Mawangdui Han tombs site, depicting the Kingdom of Changsha and Kingdom of Nanyue in southern China (note: the south direction is oriented at the top, north at the bottom).
+The three Han dynasty maps found at Mawangdui differ from the earlier Qin State maps. While the Qin maps place the cardinal direction of north at the top of the map, the Han maps are orientated with the southern direction at the top.[38]: 93  The Han maps are also more complex, since they cover a much larger area, employ a large number of well-designed map symbols, and include additional information on local military sites and the local population.[38]: 93  The Han maps also note measured distances between certain places, but a formal graduated scale and rectangular grid system for maps would not be used—or at least described in full—until the 3rd century (see Pei Xiu below).[38]: 93–94  Among the three maps found at Mawangdui was a small map representing the tomb area where it was found, a larger topographical map showing the Han's borders along the subordinate Kingdom of Changsha and the Nanyue kingdom (of northern Vietnam and parts of modern Guangdong and Guangxi), and a map which marks the positions of Han military garrisons that were employed in an attack against Nanyue in 181 BC.[42]
+
+An early text that mentioned maps was the Rites of Zhou.[41]: 534  Although attributed to the era of the Zhou dynasty, its first recorded appearance was in the libraries of Prince Liu De (c. 130 BC), and was compiled and commented on by Liu Xin in the 1st century AD. It outlined the use of maps that were made for governmental provinces and districts, principalities, frontier boundaries, and even pinpointed locations of ores and minerals for mining facilities.[41]: 534  Upon the investiture of three of his sons as feudal princes in 117 BC, Emperor Wu of Han had maps of the entire empire submitted to him.[41]: 536 
+
+From the 1st century AD onwards, official Chinese historical texts contained a geographical section (Diliji 地理纪), which was often an enormous compilation of changes in place-names and local administrative divisions controlled by the ruling dynasty, descriptions of mountain ranges, river systems, taxable products, etc.[41]: 508  From the 5th century BC Shu Jing forward, Chinese geographical writing provided more concrete information and less legendary element. This example can be seen in the 4th chapter of the Huainanzi (Book of the Master of Huainan), compiled under the editorship of Prince Liu An in 139 BC during the Han dynasty (202 BC–202 AD). The chapter gave general descriptions of topography in a systematic fashion, given visual aids by the use of maps (di tu) due to the efforts of Liu An and his associate Zuo Wu.[41]: 507–508  In Chang Chu's Hua Yang Guo Chi (Historical Geography of Szechuan) of 347, not only rivers, trade routes, and various tribes were described, but it also wrote of a 'Ba June Tu Jing' ('Map of Szechuan'), which had been made much earlier in 150.[41]: 517 
+
+Local mapmaking such as the one of Sichuan mentioned above, became a widespread tradition of Chinese geographical works by the 6th century, as noted in the bibliography of the Sui Shu.[41]: 518  It is during this time of the Southern and Northern Dynasties that the Liang dynasty (502–557) cartographers also began carving maps into stone steles (alongside the maps already drawn and painted on paper and silk).[41]: 543 
+
+Pei Xiu, the 'Ptolemy of China'
+In the year 267, Pei Xiu (224–271) was appointed as the Minister of Works by Emperor Wu of Jin, the first emperor of the Jin dynasty. Pei is best known for his work in cartography. Although map making and use of the grid existed in China before him,[41]: 106–107  he was the first to mention a plotted geometrical grid and graduated scale displayed on the surface of maps to gain greater accuracy in the estimated distance between different locations.[41]: 538–540  Pei outlined six principles that should be observed when creating maps, two of which included the rectangular grid and the graduated scale for measuring distance.[41]: 539–540  Western historians compare him to the Greek Ptolemy for his contributions in cartography.[41]: 540  However, Howard Nelson states that, although the accounts of earlier cartographic works by the inventor and official Zhang Heng (78–139) are somewhat vague and sketchy, there is ample written evidence that Pei Xiu derived the use of the rectangular grid reference from the maps of Zhang Heng.[43]: 359 
+
+Later Chinese ideas about the quality of maps made during the Han dynasty and before stem from the assessment given by Pei Xiu.[38]: 96  Pei Xiu noted that the extant Han maps at his disposal were of little use since they featured too many inaccuracies and exaggerations in measured distance between locations.[38]: 96  However, the Qin State maps and Mawangdui maps of the Han era were far superior in quality than those examined by Pei Xiu.[38]: 96  It was not until the 20th century that Pei Xiu's 3rd-century assessment of earlier maps' dismal quality would be overturned and disproven. The Qin and Han maps did have a degree of accuracy in scale and pinpointed location, but the major improvement in Pei Xiu's work and that of his contemporaries was expressing topographical elevation on maps.[38]: 97 
+
+Sui dynasty
+In the year 605, during the Sui dynasty (581–618), the Commercial Commissioner Pei Ju (547–627) created a famous geometrically gridded map.[41]: 543  In 610 Emperor Yang of Sui ordered government officials from throughout the empire to document in gazetteers the customs, products, and geographical features of their local areas and provinces, providing descriptive writing and drawing them all onto separate maps, which would be sent to the imperial secretariat in the capital city.[41]: 518 [44]: 409–10 
+
+Tang dynasty
+The Tang dynasty (618–907) also had its fair share of cartographers, including the works of Xu Jingzong in 658, Wang Mingyuan in 661, and Wang Zhongsi in 747.[41]: 543  Arguably the greatest geographer and cartographer of the Tang period was Jia Dan (730–805), whom Emperor Dezong of Tang entrusted in 785 to complete a map of China with her recently former inland colonies of Central Asia, the massive and detailed work completed in 801, called the Hai Nei Hua Yi Tu (Map of both Chinese and Barbarian Peoples within the (Four) Seas).[41]: 543  The map was 30 ft long (9.1 m) and 33 ft high (10 m) in dimension, mapped out on a grid scale of 1-inch (25 mm) equaling 100 li (unit) (the Chinese equivalent of the mile/kilometer).[41]: 543  Jia Dan is also known for having described the Persian Gulf region with great detail, along with lighthouses that were erected at the mouth of the Persian Gulf by the medieval Iranians in the Abbasid period (refer to article on Tang dynasty for more).
+
+Song dynasty
+
+The Yu Ji Tu, or Map of the Tracks of Yu Gong, carved into stone in 1137,[45] located in the Stele Forest of Xian. This 3 ft (0.91 m) squared map features a graduated scale of 100 li for each rectangular grid. China's coastline and river systems are clearly defined and precisely pinpointed on the map. Yu Gong is in reference to the Chinese deity described in the geographical chapter of the Classic of History, dated 5th century BC.
+During the Song dynasty (960–1279) Emperor Taizu of Song ordered Lu Duosun in 971 to update and 're-write all the Tu Jing in the world', which would seem to be a daunting task for one individual, who was sent out throughout the provinces to collect texts and as much data as possible.[41]: 518  With the aid of Song Zhun, the massive work was completed in 1010, with some 1566 chapters.[41]: 518  The later Song Shi historical text stated (Wade-Giles spelling):
+
+Yuan Hsieh (d. +1220) was director-general of governmental grain stores. In pursuance of his schemes for the relief of famines he issued orders that each pao (village) should prepare a map which would show the fields and mountains, the rivers and the roads in fullest detail. The maps of all the pao were joined together to make a map of the tu (larger district), and these in turn were joined with others to make a map of the hsiang and the hsien (still larger districts). If there was any trouble about the collection of taxes or the distribution of grain, or if the question of chasing robbers and bandits arose, the provincial officials could readily carry out their duties by the aid of the maps.[41]: 518 
+
+Like the earlier Liang dynasty stone-stele maps (mentioned above), there were large and intricately carved stone stele maps of the Song period. For example, the 3 ft (0.91 m) squared stone stele map of an anonymous artist in 1137, following the grid scale of 100 li squared for each grid square.[41]: Plate LXXXI  What is truly remarkable about this map is the incredibly precise detail of coastal outlines and river systems in China (refer to Needham's Volume 3, Plate LXXXI for an image). The map shows 500 settlements and a dozen rivers in China, and extends as far as Korea and India. On the reverse, a copy of a more ancient map uses grid coordinates in a scale of 1:1,500,000 and shows the coastline of China with great accuracy.[46]
+
+The famous 11th-century scientist and polymath statesman Shen Kuo (1031–1095) was also a geographer and cartographer.[41]: 541  His largest atlas included twenty three maps of China and foreign regions that were drawn at a uniform scale of 1:900,000.[47] Shen also created a three-dimensional raised-relief map using sawdust, wood, beeswax, and wheat paste, while representing the topography and specific locations of a frontier region to the imperial court.[47] Shen Kuo's contemporary, Su Song (1020–1101), was a cartographer who created detailed maps in order to resolve a territorial border dispute between the Song dynasty and the Liao dynasty.[48]
+
+Yuan dynasty (Mongol Empire)
+In the Mongol Empire, the Mongol scholars with the Persian and Chinese cartographers or their foreign colleagues created maps, geographical compendium as well as travel accounts. Rashid-al-Din Hamadani described his geographical compendium, "Suvar al-aqalim", constituted volume four of the Collected chronicles of the Ilkhanate in Persia.[49] His works says about the borders of the seven climes (old world), rivers, major cities, places, climate, and Mongol yams (relay stations). The Great Khan Khubilai's ambassador and minister, Bolad, had helped Rashid's works in relation to the Mongols and Mongolia.[50] Thanks to Pax Mongolica, the easterners and the westerners in Mongol dominions were able to gain access to one another's geographical materials.[51] The Mongols required the nations they conquered to send geographical maps to the Mongol headquarters.[52][53]
+
+One of medieval Persian work written in northwest Iran can clarify the historical geography of Mongolia where Genghis Khan was born and united the Mongol and Turkic nomads as recorded in native sources, especially the Secret History of the Mongols.[54]
+
+Map of relay stations, called "yam", and strategic points existed in the Yuan dynasty.[51] The Mongol cartography was enriched by traditions of ancient China and Iran which were now under the Mongols.
+
+Because the Yuan court often requested the western Mongol khanates to send their maps, the Yuan dynasty was able to publish a map describing the whole Mongol world in c.1330. This is called "Hsi-pei pi ti-li tu". The map includes the Mongol dominions including 30 cities in Iran such as Ispahan and the Ilkhanid capital Soltaniyeh, and Russia (as "Orash") as well as their neighbors, e.g. Egypt and Syria.[55]
+
+Ming dynasty
+
+The Da Ming Hun Yi Tu map, dating c. 1390, exists in multicolour format.
+The multicolour map, Da Ming Hunyi Tu dates to the early Ming dynasty from about 1390, is in multicolour. The horizontal scale is 1:820,000 and the vertical scale is 1:1,060,000.[46] Many of the oldest surviving maps from China dates between the 16th to 17th centuries, these include the Sihai Huayi Zongtu (1532) and the Shanhai Yudi Quantu (1609).[56] Similar to these, the earliest European style map from China, the Kunyu Wanguo Quantu (1602) influenced and was exported to Japan[57] and Korea.[58] By this time, Jesuit missionaries contributed to similar maps such as the Wanguo Quantu (1620s)[59] and the Kunyu Quantu (1674).[60] While the Selden Map (c. 17th century) employs a system of navigational routes emanating from ports in China.[61] The Mao Kun map published in 1628 is thought to be based on a strip map dated to the voyages of Zheng He.[62]
+
+In 1579, Luo Hongxian published the Guang Yutu atlas, including more than 40 maps, a grid system, and a systematic way of representing major landmarks such as mountains, rivers, roads and borders. The Guang Yutu incorporates the discoveries of the naval explorer Zheng He's 15th-century voyages along the coasts of China, Southeast Asia, India and Africa.[46]
+
+Qing dynasty
+From the 16th and 17th centuries, several examples survive of maps focused on cultural information. Gridlines are not used on either Yu Shi's Gujin xingsheng zhi tu (1555) or Zhang Huang's Tushu bian (1613); instead, illustrations and annotations show mythical places, exotic foreign peoples, administrative changes and the deeds of historic and legendary heroes.[46] Also in the 17th century, an edition of a possible Tang dynasty map shows clear topographical contour lines.[41]: 546  Although topographic features were part of maps in China for centuries, a Fujian county official Ye Chunji (1532–1595) was the first to base county maps using on-site topographical surveying and observations.[63]
+
+Japan and Korea
+
+The first Japanese printed map to depict the world, including Europe and America. Printed by woodblock in 1710, composed by the Buddhist monk Rokashi Hotan.
+In 1402, Yi Hoe and Kwan Yun created a world map largely based from Chinese cartographers called the Gangnido map. It is currently one of the oldest surviving world maps from East Asia.[64] Another notable pre-modern map is the Cheonhado map developed in Korea in the 17th century.[65]
+
+Sekisui Nagakubo produced a world map in 1785 called the Comprehensive Map and Description of the Geography of the Myriad Countries of the Globe (地球萬國山海輿地全圖說), mainly deriving it from an earlier map made by Matteo Ricci. The production was made by woodblock print and folded into paper boards, he made corrections and additions on top of Matteo's production. This was one of the earliest maps with longitude and latitude information in Japan and was written in Katakana.[66]
+
+Another well-known cartographer of the late-Edo period was Ino Tadataka, he is known for completing the first map of Japan using modern surveying techniques.[67] His most famous work, the Dai Nihon Enkai Yochi Zenzu (大日本沿海輿地全図) consisted of three large map pages at a scale of 1:432,000 and it showed the entire country on eight pages at 1:216,000. Some of his maps are accurate to 1/1000 of a degree, which allowed it to become the definitive maps used in Japan for nearly a century. Maps based on his work were in use as late as 1924.
+
+India
+
+The pundit (explorer) cartographer Nain Singh Rawat (19th century) received a Royal Geographical Society gold medal in 1876.
+Main article: Cartography of India
+Indian cartographic traditions covered the locations of the Pole star and other constellations of use.[68]: 330  These charts may have been in use by the beginning of the Common Era for purposes of navigation.[68]: 330 
+
+Detailed maps of considerable length describing the locations of settlements, sea shores, rivers, and mountains were also made.[68]: 327  The 8th-century scholar Bhavabhuti conceived paintings which indicated geographical regions.[68]: 328 
+
+Italian scholar Francesco Lorenzo Pullè reproduced a number of ancient Indian maps in his magnum opus La Cartografia Antica dell'India.[68]: 327  Out of these maps, two have been reproduced using a manuscript of Lokaprakasa, originally compiled by the polymath Ksemendra (Kashmir, 11th century), as a source.[68]: 327  The other manuscript, used as a source by Pullè, is titled Samgrahani.[68]: 327  The early volumes of the Encyclopædia Britannica also described cartographic charts made by the Dravidian people of India.[68]: 330 
+
+Maps from the Ain-e-Akbari, a Mughal document detailing India's history and traditions, contain references to locations indicated in earlier Indian cartographic traditions.[68]: 327  Another map describing the kingdom of Nepal, four feet in length and about two and a half feet in breadth, was presented to Warren Hastings.[68]: 328  In this map the mountains were elevated above the surface, and several geographical elements were indicated in different colors.[68]: 328 
+
+Islamic cartographic schools
+Arab and Persian cartography
+Main article: Geography in medieval Islam
+
+Al-Masudi's world map (10th century)
+In the Middle Ages, Muslim scholars continued and advanced on the mapmaking traditions of earlier cultures. Most used Ptolemy's methods; but they also took advantage of what explorers and merchants learned in their travels across the Muslim world, from Spain to India to Africa, and beyond in trade relationships with China, and Russia.[26]
+
+An important influence in the development of cartography was the patronage of the Abbasid caliph, al-Ma'mun, who reigned from 813 to 833. He commissioned several geographers to remeasure the distance on earth that corresponds to one degree of celestial meridian. Thus his patronage resulted in the refinement of the definition of the mile used by Arabs (mīl in Arabic) in comparison to the stadion used by Greeks. These efforts also enabled Muslims to calculate the circumference of the earth. Al-Mamun also commanded the production of a large map of the world, which has not survived,[69]: 61–63  though it is known that its map projection type was based on Marinus of Tyre rather than Ptolemy.[70]: 193 
+
+Also in the 9th century, the Persian mathematician and geographer, Habash al-Hasib al-Marwazi, employed spherical trigonometry and map projection methods in order to convert polar coordinates to a different coordinate system centred on a specific point on the sphere, in this the Qibla, the direction to Mecca.[71] Abū Rayhān Bīrūnī (973–1048) later developed ideas which are seen as an anticipation of the polar coordinate system.[72] Around 1025, he describes a polar equi-azimuthal equidistant projection of the celestial sphere.[73]: 153  However, this type of projection had been used in ancient Egyptian star-maps and was not to be fully developed until the 15 and 16th centuries.[74]
+
+In the early 10th century, Abū Zayd al-Balkhī, originally from Balkh, founded the "Balkhī school" of terrestrial mapping in Baghdad. The geographers of this school also wrote extensively of the peoples, products, and customs of areas in the Muslim world, with little interest in the non-Muslim realms.[69] The "Balkhī school", which included geographers such as Estakhri, al-Muqaddasi and Ibn Hawqal, produced world atlases, each one featuring a world map and twenty regional maps.[70]: 194 
+
+Suhrāb, a late 10th-century Muslim geographer, accompanied a book of geographical coordinates with instructions for making a rectangular world map, with equirectangular projection or cylindrical equidistant projection.[69] The earliest surviving rectangular coordinate map is dated to the 13th century and is attributed to Hamdallah al-Mustaqfi al-Qazwini, who based it on the work of Suhrāb. The orthogonal parallel lines were separated by one degree intervals, and the map was limited to Southwest Asia and Central Asia. The earliest surviving world maps based on a rectangular coordinate grid are attributed to al-Mustawfi in the 14th or 15th century (who used invervals of ten degrees for the lines), and to Hafiz-i Abru (died 1430).[70]: 200–01 
+
+Ibn Battuta (1304–1368?) wrote "Rihlah" (Travels) based on three decades of journeys, covering more than 120,000 km through northern Africa, southern Europe, and much of Asia.
+
+Islamic regional cartography
+Islamic regional cartography is usually categorized into three groups: that produced by the "Balkhī school", the type devised by Muhammad al-Idrisi, and the type that are uniquely found in the Book of curiosities.[69]
+
+The maps by the Balkhī schools were defined by political, not longitudinal boundaries and covered only the Muslim world. In these maps the distances between various "stops" (cities or rivers) were equalized. The only shapes used in designs were verticals, horizontals, 90-degree angles, and arcs of circles; unnecessary geographical details were eliminated. This approach is similar to that used in subway maps, most notable used in the "London Underground Tube Map" in 1931 by Harry Beck.[69]: 85–87 
+
+Al-Idrīsī defined his maps differently. He considered the extent of the known world to be 160° in longitude, and divided the region into ten parts, each 16° wide. In terms of latitude, he portioned the known world into seven 'climes', determined by the length of the longest day. In his maps, many dominant geographical features can be found.[69]
+
+Book on the appearance of the Earth
+Muhammad ibn Mūsā al-Khwārizmī's Kitāb ṣūrat al-Arḍ ("Book on the appearance of the Earth") was completed in 833. It is a revised and completed version of Ptolemy's Geography, consisting of a list of 2402 coordinates of cities and other geographical features following a general introduction.[75]
+
+Al-Khwārizmī, Al-Ma'mun's most famous geographer, corrected Ptolemy's gross overestimate for the length of the Mediterranean Sea[70]: 188  (from the Canary Islands to the eastern shores of the Mediterranean); Ptolemy overestimated it at 63 degrees of longitude, while al-Khwarizmi almost correctly estimated it at nearly 50 degrees of longitude. Al-Ma'mun's geographers "also depicted the Atlantic and Indian Oceans as open bodies of water, not land-locked seas as Ptolemy had done."[76] Al-Khwarizmi thus set the Prime Meridian of the Old World at the eastern shore of the Mediterranean, 10–13 degrees to the east of Alexandria (the prime meridian previously set by Ptolemy) and 70 degrees to the west of Baghdad. Most medieval Muslim geographers continued to use al-Khwarizmi's prime meridian.[70]: 188  Other prime meridians used were set by Abū Muhammad al-Hasan al-Hamdānī and Habash al-Hasib al-Marwazi at Ujjain, a centre of Indian astronomy, and by another anonymous writer at Basra.[70]: 189 
+
+Al-Biruni
+Abu Rayhan al-Biruni (973–1048) gave an estimate of 6,339.6 km for the Earth radius, which is only 17.15 km less than the modern value of 6,356.7523142 km (WGS84 polar radius "b"). In contrast to his predecessors who measured the Earth's circumference by sighting the Sun simultaneously from two different locations, Al-Biruni developed a new method of using trigonometric calculations based on the angle between a plain and mountain top which yielded more accurate measurements of the Earth's circumference and made it possible for it to be measured by a single person from a single location.[77][78][79] Al-Biruni's method's motivation was to avoid "walking across hot, dusty deserts" and the idea came to him when he was on top of a tall mountain in India (present day Pind Dadan Khan, Pakistan).[79] From the top of the mountain, he sighted the dip angle which, along with the mountain's height (which he calculated beforehand), he applied to the law of sines formula. This was the earliest known use of dip angle and the earliest practical use of the law of sines.[78][79]
+
+Around 1025, Al-Biruni was the first to describe a polar equi-azimuthal equidistant projection of the celestial sphere.[80]
+
+In his Codex Masudicus (1037), Al-Biruni theorized the existence of a landmass along the vast ocean between Asia and Europe, or what is today known as the Americas. He deduced its existence on the basis of his accurate estimations of the Earth's circumference and Afro-Eurasia's size, which he found spanned only two-fifths of the Earth's circumference, and his discovery of the concept of specific gravity, from which he deduced that the geological processes that gave rise to Eurasia must've also given rise to lands in the vast ocean between Asia and Europe. He also theorized that the landmass must be inhabited by human beings, which he deduced from his knowledge of humans inhabiting the broad north–south band stretching from Russia to South India and Sub-Saharan Africa, theorizing that the landmass would most likely lie along the same band.[81][82] He was the first to predict "the existence of land to the east and west of Eurasia, which later on was discovered to be America and Japan".[82]
+
+Tabula Rogeriana
+Main article: Tabula Rogeriana
+
+The Tabula Rogeriana, drawn by Muhammad al-Idrisi for Roger II of Sicily in 1154. Note that the north is at the bottom, and so the map appears "upside down" compared to modern cartographic conventions.
+The Arab geographer, Muhammad al-Idrisi, produced his medieval atlas, Tabula Rogeriana or The Recreation for Him Who Wishes to Travel Through the Countries, in 1154. He incorporated the knowledge of Africa, the Indian Ocean and the Far East gathered by Arab merchants and explorers with the information inherited from the classical geographers to create the most accurate map of the world in pre-modern times.[83] With funding from Roger II of Sicily (1097–1154), al-Idrisi drew on the knowledge collected at the University of Cordoba and paid draftsmen to make journeys and map their routes. The book describes the earth as a sphere with a circumference of 22,900 miles (36,900 km) but maps it in 70 rectangular sections. Notable features include the correct dual sources of the Nile, the coast of Ghana and mentions of Norway. Climate zones were a chief organizational principle. A second and shortened copy from 1192 called Garden of Joys is known by scholars as the Little Idrisi.[26]
+
+On the work of al-Idrisi, S. P. Scott commented:[83]
+
+The compilation of Edrisi marks an era in the history of science. Not only is its historical information most interesting and valuable, but its descriptions of many parts of the earth are still authoritative. For three centuries geographers copied his maps without alteration. The relative position of the lakes which form the Nile, as delineated in his work, does not differ greatly from that established by Baker and Stanley more than seven hundred years afterwards, and their number is the same. The mechanical genius of the author was not inferior to his erudition. The celestial and terrestrial planisphere of silver which he constructed for his royal patron was nearly six feet in diameter, and weighed four hundred and fifty pounds; upon the one side the zodiac and the constellations, upon the other—divided for convenience into segments—the bodies of land and water, with the respective situations of the various countries, were engraved.
+
+— S. P. Scott, History of the Moorish Empire in Europe
+Al-Idrisi's atlas, originally called the Nuzhat in Arabic, served as a major tool for Italian, Dutch and French mapmakers from the 16th century to the 18th century.[84]
+
+Piri Reis map of the Ottoman Empire
+Main article: Piri Reis map
+
+Surviving fragment of the first World Map of Piri Reis (1513) showing parts of the Americas.
+The Ottoman cartographer Piri Reis published navigational maps in his Kitab-ı Bahriye. The work includes an atlas of charts for small segments of the mediterranean, accompanied by sailing instructions covering the sea. In the second version of the work, he included a map of the Americas.[69]: 106  The Piri Reis map drawn by the Ottoman cartographer Piri Reis in 1513, is one of the oldest surviving maps to show the Americas.[85]: 268–272 [86][87][88]
+
+Medieval Europe
+
+The Gough Map, a road map of 14th-century Britain
+Medieval maps and the Mappa Mundi
+Medieval maps of the world in Europe were mainly symbolic in form along the lines of the much earlier Babylonian World Map. Known as Mappa Mundi (cloths or charts of the world) these maps were circular or symmetrical cosmological diagrams representing the Earth's single land mass as disk-shaped and surrounded by ocean.[6]
+
+
+Map of the Holy Land, Pietro Vesconte, 1321. Described by Adolf Erik Nordenskiöld as "the first non-Ptolemaic map of a definite country".[89]
+Italian cartography and the birth of portolan charts
+Main article: Portolan charts
+
+The Fra Mauro map, a medieval European map, was made around 1450 by the Italian monk Fra Mauro. It is a circular world map drawn on parchment and set in a wooden frame, about two meters in diameter.
+Roger Bacon's investigations of map projections and the appearance of portolano and then portolan charts for plying the European trade routes were rare innovations of the period. The Majorcan school is contrasted with the contemporary Italian cartography school. The Carta Pisana portolan chart, made at the end of the 13th century (1275–1300), is the oldest surviving nautical chart (that is, not simply a map but a document showing accurate navigational directions).[90]
+
+Majorcan cartographic school and the "normal" portolan chart
+Main article: Majorcan cartographic school
+The Majorcan cartographic school was a predominantly Jewish cooperation of cartographers, cosmographers and navigational instrument-makers in late 13th to the 14th and 15th-century Majorca. With their multicultural heritage the Majorcan cartographic school experimented and developed unique cartographic techniques most dealing with the Mediterranean, as it can be seen in the Catalan Atlas.[91] The Majorcan school was (co-)responsible for the invention (c.1300) of the "Normal Portolan chart". It was a contemporary superior, detailed nautical model chart, gridded by compass lines.
+
+
+Catalan Atlas drawn and written in 1375, conserved in the Bibliothèque nationale de France. (Scroll left or right)
+Polynesian stick charts
+
+A chart of an unidentified area
+Further information: Marshall Islands stick chart § Significance to the history of cartography
+The Polynesian peoples who explored and settled the Pacific islands in the first two millennia AD used maps to navigate across large distances. A surviving map from the Marshall Islands uses sticks tied in a grid with palm strips representing wave and wind patterns, with shells attached to show the location of islands.[92] Other maps were created as needed using temporary arrangements of stones or shells.[93]
+
+Modern era
+Iberian cartography in the Age of Exploration
+Main article: Iberian cartography, 1400–1600
+In the Renaissance, with the renewed interest in classical works, maps became more like surveys once again, while European exploration of the Americas and their subsequent effort to control and divide those lands revived interest in scientific mapping methods. Peter Whitfield, the author of several books on the history of maps, credits European mapmaking as a factor in the global spread of western power: "Men in Seville, Amsterdam or London had access to knowledge of America, Brazil, or India, while the native peoples knew only their own immediate environment" (Whitfield). Jordan Branch and his advisor, Steven Weber, propose that the power of large kingdoms and nation states of later history are an inadvertent byproduct of 15th-century advances in map-making technologies.[94][95]
+
+During the 15th and 16th centuries, Iberian powers (Kingdom of Castile and Kingdom of Portugal) were at the vanguard of European overseas exploration and mapping the coasts of the Americas, Africa, and Asia, in what came known as the Age of Discovery (also known as the Age of Exploration). Spain and Portugal were magnets for the talent, science and technology from the Italian city-states.
+
+Portugal's methodical expeditions started in 1419 along West Africa's coast under the sponsorship of Prince Henry the Navigator, with Bartolomeu Dias reaching the Cape of Good Hope and entering the Indian Ocean in 1488. Ten years later, in 1498, Vasco da Gama led the first fleet around Africa to India, arriving in Calicut and starting a maritime route from Portugal to India. Soon, after Pedro Álvares Cabral reaching Brazil (1500), explorations proceed to Southeast Asia, having sent the first direct European maritime trade and diplomatic missions to Ming China and to Japan (1542).
+
+
+World Map by Juan de la Cosa (1500), the first map showing the Americas.
+In 1492, when a Spanish expedition headed by Genoese explorer Christopher Columbus sailed west to find a new trade route to the Far East but inadvertently found the Americas. Columbus's first two voyages (1492–93) reached the Bahamas and various Caribbean islands, including Hispaniola, Puerto Rico and Cuba. The Spanish cartographer and explorer Juan de la Cosa sailed with Columbus. He created the first known cartographic representations showing both the Americas. The post-1492 era is known as the period of the Columbian Exchange, a dramatically widespread exchange of animals, plants, culture, human populations (including slaves), communicable disease, and ideas between the American and Afro-Eurasian hemispheres following the Voyages of Christopher Columbus to the Americas.
+
+The Magellan-Elcano circumnavigation was the first known voyage around the world in human history. It was a Spanish expedition that sailed from Seville in 1519 under the command of Portuguese navigator Ferdinand Magellan in search of a maritime path from the Americas to the East Asia across the Pacific Ocean. Following Magellan's death in Mactan (Philippines) in 1521, Juan Sebastián Elcano took command of the expedition, sailing to Borneo, the Spice Islands and back to Spain across the Indian Ocean, round the Cape of Good Hope and north along the west coast of Africa. They arrived in Spain three years after they left, in 1522.
+
+c. 1485: Portuguese cartographer Pedro Reinel made the oldest known signed Portuguese nautical chart.
+1492: Cartographer Jorge de Aguiar made the oldest known signed and dated Portuguese nautical chart.
+1537: Much of Portuguese mathematician and cosmographer Pedro Nunes' work related to navigation. He was the first to understand why a ship maintaining a steady course would not travel along a great circle, the shortest path between two points on Earth, but would instead follow a spiral course, called a loxodrome. These lines, also called rhumb lines, maintain a fixed angle with the meridians. In other words, loxodromic curves are directly related to the construction of the Nunes connection, also called navigator connection. In his Treatise in Defense of the Marine Chart (1537), Nunes argued that a nautical chart should have its parallels and meridians shown as straight lines. Yet he was unsure how to solve the problems that this caused, a situation that lasted until Mercator developed the projection bearing his name. The Mercator Projection is the system which is still used.
+First maps of the Americas
+
+Nautical chart by Pedro Reinel (c. 1504), one of the first based on astronomical observations and to depict a scale of latitudes.
+1500: The Spanish cartographer and explorer Juan de la Cosa created the first known cartographic representations showing both the Americas as well as Africa and Eurasia.
+1502: Unknown Portuguese cartographer made the Cantino planisphere, the first nautical chart to implicitly represent latitudes.
+1504: Portuguese cartographer Pedro Reinel made the oldest known nautical chart with a scale of latitudes.
+1519 : Portuguese cartographers Lopo Homem, Pedro Reinel and Jorge Reinel made the group of maps known today as the Miller Atlas or Lopo Homem – Reinéis Atlas.
+1530: Alonzo de Santa Cruz, Spanish cartographer, produced the first map of magnetic variations from true north. He believed it would be of use in finding the correct longitude. Santa Cruz also designed new nautical instruments,[96] and was interested in navigational methods.
+Padrón Real of the Spanish Empire
+Main article: Padrón Real
+
+The Salviati Planisphere, a 1526 version of the Padrón Real provided by Charles V to the cardinal who officiated his wedding to Isabella of Portugal.
+
+The Propaganda Map, a 1529 version of the Padrón Real now held by the Vatican Library.
+Founded 1504 in Seville, the Spanish House of Trade (Casa de Contratación) kept a large contingent of cartographers as Spain's overseas empire expanded. A royal standard map (Padrón Real) was established in 1508 and updated periodically as more information became available from major expeditions returning to Seville.[97][98][99] This continued a practice of long standing in Portugal, whose Padrão Real was kept in the Guinea and India Houses (Casa da Guiné and da Índia) within the royal palace in Lisbon.
+
+The originals of the Spanish and Portuguese maps are now lost but copies of known provenance are held by the Vatican Library; the Biblioteca Estense in Modena, Italy; and the Anna Amalia Bibliothek in Weimar, Germany. The 1527 and 1529 copies of the Padrón Real under Diogo Ribeiro, a Portuguese cartographer working for Spain, are particularly praised as the first scientific world map.[100] Incorporating information from the Magellan, Gómez, and Loaysa expeditions and the geodesic research undertaken to codify the demarcation lines established by the treaties of Tordesillas and Zaragoza, these editions of the Padrón Real show for the first time the full extension of the Pacific Ocean and the continuous coast of North America. They also very precisely delineate the coasts of Central and South America, although Portugal's control of the African trade routes left the Indian Ocean less exact.
+
+Two prominent cosmographers (as mapmakers were then known) of the House of Trade were Alonso de Santa Cruz and Juan López de Velasco, who directed mapmaking under Philip II without ever going to the New World. Their maps were based on information they received from returning navigators. Using repeatable principles that underpin mapmaking, their mapmaking techniques could be employed anywhere. Philip II sought extensive information about his overseas empire, both in written textual form and in the production of maps.[101]
+
+German cartography
+
+Martin Behaim's Erdapfel (1492) is considered to be the oldest surviving terrestrial globe.
+
+Universalis Cosmographia, the Waldseemüller wall map dated 1507, depicts the Americas, Africa, Europe, Asia, and the Pacific Ocean separating Asia from the Americas, by the Italian Amerigo Vespucci.
+15th century: The German monk Nicolaus Germanus wrote a pioneering Cosmographia. He added the first new maps to Ptolemy's Geographica.[6] Germanus invented the Donis map projection where parallels of latitude are made equidistant, but meridians converge toward the poles.
+1492: German merchant Martin Behaim (1459–1507) made the oldest surviving terrestrial globe, but it lacked the Americas.[6]
+1507: German cartographer Martin Waldseemüller's world map (Waldseemüller map) was the first to use the term America for the Western continents (after explorer Amerigo Vespucci).[6]
+1603: German Johann Bayer's star atlas (Uranometria) was published in Augsburg in 1603 and was the first atlas to cover the entire celestial sphere.
+
+Dutch and Flemish cartography
+
+Blaeu's world map, originally prepared by Joan Blaeu for his Atlas Maior, published in the first book of the Atlas Van Loon (1664).
+Leuven, Antwerp, and Amsterdam were the main centres of the Netherlandish school of cartography in its golden age (the 16th and 17th centuries, approximately 1570–1670s). The Golden Age of Dutch cartography (also known as the Golden Age of Netherlandish cartography) that was inaugurated in the Southern Netherlands (current Belgium; mainly in Leuven and Antwerp) by Mercator and Ortelius found its fullest expression during the seventeenth century with the production of monumental multi-volume world atlases in the Dutch Republic (mainly in Amsterdam) by competing mapmaking firms such as Lucas Waghenaer, Joan Blaeu, Jan Janssonius, Claes Janszoon Visscher, and Frederik de Wit.[102]
+
+
+The 1569 Mercator map of the world.
+Notable representatives of the Netherlandish school of cartography and geography (1500s–1600s) include: Franciscus Monachus, Gemma Frisius, Gaspard van der Heyden, Gerard Mercator, Abraham Ortelius, Christophe Plantin, Lucas Waghenaer, Jacob van Deventer, Willebrord Snell, Hessel Gerritsz, Petrus Plancius, Jodocus Hondius, Henricus Hondius II, Hendrik Hondius I, Willem Blaeu, Joan Blaeu, Johannes Janssonius, Andreas Cellarius, Gerard de Jode, Cornelis de Jode, Claes Visscher, Nicolaes Visscher I, Nicolaes Visscher II, and Frederik de Wit.
+
+Gerardus Mercator, the German-Netherlandish[b] cartographer and geographer with a vast output of wall maps, bound maps, globes and scientific instruments but his greatest legacy was the mathematical projection he devised for his 1569 world map. The Mercator projection is an example of a cylindrical projection in which the meridians are straight and perpendicular to the parallels. As a result, the map has a constant width and the parallels are stretched east–west as the poles are approached. Mercator's insight was to stretch the separation of the parallels in a way which exactly compensates for their increasing length, thus preserving shapes of small regions, albeit at the expense of global distortion. Such a conformal map projection necessarily transforms rhumb lines, sailing courses of a constant bearing, into straight lines on the map thus greatly facilitating navigation. That this was Mercator's intention is clear from the title: Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata which translates as "New and more complete representation of the terrestrial globe properly adapted for use in navigation". Although the projection's adoption was slow, by the end of the seventeenth century it was in use for naval charts.[c]
+
+Mercator spent the last thirty years of his life working on a vast project, the Cosmographia;[d] a description of the whole universe including the creation and a description of the topography, history and institutions of all countries. The word atlas makes its first appearance in the title of the final volume: "Atlas sive cosmographicae meditationes de fabrica mundi et fabricati figura".[e] This translates as Atlas OR cosmographical meditations upon the creation of the universe, and the universe as created, thus providing Mercator's definition of the term atlas. These volumes devote slightly less than one half of their pages to maps: Mercator did not use the term solely to describe a bound collection of maps. His choice of title was motivated by his respect for Atlas "King of Mauretania"[103]
+
+
+World map Theatrum Orbis Terrarum by Ortelius (1570)
+Abraham Ortelius generally recognized as the creator of the first modern atlas, the Theatrum Orbis Terrarum.[104] Triangulation had first emerged as a map-making method in the mid sixteenth century when Gemma Frisius set out the idea in his Libellus de locorum describendorum ratione (Booklet concerning a way of describing places).[105][106][107] Dutch cartographer Jacob van Deventer was among the first to make systematic use of triangulation, the technique whose theory was described by Frisius in his 1533 book.
+
+The modern systematic use of triangulation networks stems from the work of the Dutch mathematician Willebrord Snell (born Willebrord Snel van Royen), who in 1615 surveyed the distance from Alkmaar to Bergen op Zoom, approximately 70 miles (110 kilometres), using a chain of quadrangles containing 33 triangles in all.[108][109][110] The two towns were separated by one degree on the meridian, so from his measurement he was able to calculate a value for the circumference of the earth – a feat celebrated in the title of his book Eratosthenes Batavus (The Dutch Eratosthenes), published in 1617. Snell's methods were taken up by Jean Picard who in 1669–70 surveyed one degree of latitude along the Paris Meridian using a chain of thirteen triangles stretching north from Paris to the clocktower of Sourdon, near Amiens.
+
+The first printed atlas of nautical charts (De Spieghel der Zeevaerdt or The Mirror of Navigation / The Mariner's Mirror) was produced by Lucas Janszoon Waghenaer in Leiden in 1584. This atlas was the first attempt to systematically codify nautical maps. This chart-book combined an atlas of nautical charts and sailing directions with instructions for navigation on the western and north-western coastal waters of Europe. It was the first of its kind in the history of maritime cartography.[111][112][113][114]
+
+In 1660, German-born Dutch cartographer Andreas Cellarius' star atlas (Harmonia Macrocosmica) was published by Johannes Janssonius in Amsterdam.
+
+In the long run the competition between map-making firms Blaeu and Janssonius resulted in the publication of an 'Atlas Maior' or 'Major Atlas'. In 1662 the Latin edition of Joan Blaeu's Atlas Maior appeared in eleven volumes and with approximately 600 maps. In the years to come French and Dutch editions followed in twelve and nine volumes respectively. Purely judging from the number of maps in the Atlas Maior, Blaeu had outdone his rival Johannes Janssonius. And also from a commercial point of view it was a huge success. Also due to the superior typography the Atlas Maior by Blaeu soon became a status symbol for rich citizens. Costing 350 guilders for a non-coloured and 450 guilders for a coloured version, the atlas was the most precious book of the 17th century. However, the Atlas Maior was also a turning point: after that time the role of Dutch cartography (and Netherlandish cartography in general) was finished. Janssonius died in 1664 while a great fire in 1672 destroyed one of Blaeu's print shops. In that fire a part of the copperplates went up in flames. Fairly soon afterwards Joan Blaeu died, in 1673. The almost 2,000 copperplates of Janssonius and Blaeu found their way to other publishers.
+
+French cartography
+Main article: French cartography
+Historian David Buisseret has traced the roots of the flourishing of cartography in the 16th and 17th centuries in Europe. He noted five distinct reasons: 1) admiration of antiquity, especially the rediscovery of Ptolemy, considered to be the first geographer; 2) increasing reliance on measurement and quantification as a result of the scientific revolution; 3) refinements in the visual arts, such as the discovery of perspective, that allowed for better representation of spatial entities; 4) development of estate property; and 5) the importance of mapping to nation-building.[115]
+
+The reign of Louis XIV is generally considered to represent the beginning of cartography as a science in France.[116]: 42  The evolution of cartography during the transition between the 17th and 18th centuries involved advancements on a technical level, as well as those on a representative level. According to Marco Petrella, the map developed "from a tool used to affirm the administrative borders of the reign and its features…into a tool which was necessary to intervene in territory and thus establish control of it."[117][page needed] Because unification of the kingdom necessitated well-kept records of land and tax bases, Louis XIV and members of the royal court pushed the development and progression of the sciences, especially cartography. Louis XIV established the Académie des Sciences in 1666, with the expressed purpose of improving cartography and sailing charts. It was found that all the gaps of knowledge in geography and navigation could be accounted for in the further exploration and study of astronomy and geodesy.[118][page needed] Colbert also attracted many foreign scientists to the Académie des Sciences to support the pursuit of scientific knowledge.[116]: 45 
+
+Under the auspices of the Sun King and Jean-Baptiste Colbert, members of the Académie des Sciences made many breakthrough discoveries within the realm of cartography in order to ensure accuracy of their works. Among the more prominent work done with the Académie was that done by Giovanni Domenico Cassini, who perfected a method of determining longitude by the observation of movement of Jupiter's satellites.[119] Cassini, along with the aid and support of mathematician Jean Picard, developed a system of uniting the provincial topographical information into a comprehensive map of the country, through a network of surveyed triangles. It established a practice that was eventually adopted by all nations in their project to map the areas under their domain.[118]: 18  For their method of triangulation, Picard and Cassini used the meridian arc of Paris-Amiens as their starting point.[117]: 21 
+
+Jean-Baptiste Colbert, the secretary of home affairs and prominent member of Louis XIV's royal court, set out to develop the resource base of the nation and to develop a system of infrastructure that could restore the French economy. He wanted to generate income for the high expenses incurred by Louis XIV. What Colbert lacked in his pursuit of the development of the economy was a map of the entire country. France, like all other countries of Europe, operated on local knowledge. Within France, there were local systems of measuring weight and taxes; a uniform notion of land surveying did not exist.[118]: 16  The advancements made by the members of the Académie des Sciences proved instrumental as a tool to aid reform within the nation. Cartography was an important element in two major reforms undertaken by Colbert: the reform of the royal forest, a project undertaken beginning in 1661, and naval reform, initiated in 1664.[116]: 44 
+
+In 1663–1664 Colbert tried to collect information from the provinces in order to accurately assess the income within the kingdom, necessary information for economic and tax reform. Colbert asked the provincial representatives of the king, the intendants, to gather existing maps of territory within the provinces and check them for accuracy. If they were found not to be accurate, the Royal Geographer, Nicolas Sanson, was to edit them, basing his information on the reports prepared by the intendants. The operation did not succeed because the Académie des Sciences did not believe it had a strong enough basis in cartographic methodology.[116]: 45  The importance of cartography to the mechanisms of the state, however, continued to grow.
+
+Paris as the center of cartography
+The seventeenth century marked the emergence of France as the center of the map trade in Europe, with much of the production and distribution of maps taking place in the capital Paris.[120]: 33–45  In conjunction with the support of scientific development, the royal court encouraged the work of arts and artisans. This royal patronage attracted artists to Paris. As a result, many mapmakers, such as Nicolas Sanson and Alexis-Hubert Jaillot, moved to the national capital from the peripheries of the provinces.[120]: 34 
+
+Many of the agents of cartography, including those involved in the creation, production and distribution of maps in Paris, came to live in the same section of the capital city. Booksellers congregated on rue St-Jacques along the left bank of the Seine, while engravers and cartographers lived along the quai de l'Horloge on the Île de la Cité (See Figure 1). Regulations enacted by the communautés informed the location of the libraries. These regulations included that each bookseller-printer was to have one shop, which had to be located in the university quarter or on the quai de l'Horloge. These restrictions enabled authorities to more easily inspect their businesses to enforce other regulations such as: printer need to register the number of presses they owned, and any books printed had to be registered and approved by the royal court before sales.[120]: 34  Opticians were also located ton he Quai de l'Horloge. Their tools – squares, rules, compasses and dividers – were essential to the practice of cartography.[120]: 37 
+
+Many of the cartographers who worked in Paris never set foot outside the city; they did not gather firsthand knowledge for their maps. They were known as the geographes de cabinet. An example of a cartographer who relied on other sources was Jean-Baptiste Bourgignon d'Anville, who compiled his information from ancient and modern sources, verbal and pictorial, published and even unpublished sources.[120]: 39 
+
+Dieppe school of cartographers
+Main article: Dieppe maps
+The Dieppe maps are a series of world maps produced in Dieppe, France, in the 1540s, 1550s and 1560s. They are large hand-produced maps, commissioned for wealthy and royal patrons, including Henry II of France and Henry VIII of England. The Dieppe school of cartographers included Pierre Desceliers, Johne Rotz, Guillaume Le Testu, Guillaume Brouscon and Nicolas Desliens.
+
+Nicolas-Louis de Lacaille and the charting of far southern skies
+First modern topographic map of France
+In the 1670s the astronomer Giovanni Domenico Cassini began work on the first modern topographic map in France. It was completed in 1789 or 1793 by his grandson Cassini de Thury.[121][122]
+
+18th-century developments
+
+A general map of the world by Samuel Dunn, 1794, containing star chart, map of the Solar System, map of the Moon and other features along with Earth's both hemispheres.
+The Vertical Perspective projection was first used by the German map publisher Matthias Seutter in 1740. He placed his observer at ~12,750 km distance. This is the type of projection used today by Google Earth.[74]
+
+The changes in the use of military maps was also part of the modern Military Revolution, which changed the need for information as the scale of conflict increases as well. This created a need for maps to help with "... consistency, regularity and uniformity in military conflict."[123]
+
+The final form of the equidistant conic projection was constructed by the French astronomer Joseph-Nicolas Delisle in 1745.[74]
+
+The Swiss mathematician Johann Lambert invented several hemispheric map projections. In 1772 he created the Lambert conformal conic and Lambert azimuthal equal-area projections.[74]
+
+The Albers equal-area conic projection features no distortion along standard parallels. It was invented by Heinrich Albers in 1805.[74][124]
+
+In 1715 Herman Moll published the Beaver Map, one of the most famous early maps of North America, which he copied from a 1698 work by Nicolas de Fer.
+
+In 1763–1767 Captain James Cook mapped Newfoundland.
+
+In 1777 Colonel Joseph Frederick Wallet DesBarres created a monumental four volume atlas of North America, Atlantic Neptune.
+
+
+A survey of Boston Harbor from Atlantic Neptune.
+In the United States in the 18th and 19th centuries, explorers mapped trails and army engineers surveyed government lands. Two agencies were established to provide more detailed, large-scale mapping. They were the U.S. Geological Survey and the United States Coast and Geodetic Survey (now the National Geodetic Survey under the National Oceanic and Atmospheric Association).
+
+19th-century developments
+
+"Mapa de los Estados Unidos de Méjico by John Distrunell, the 1847 map used during the negotiations of the Treaty of Guadalupe Hidalgo ending the Mexican–American War.
+During his travels in Spanish America (1799–1804) Alexander von Humboldt created the most accurate map of New Spain (now Mexico) to date. Published as part of his Essai politique sur le royaume de la Nouvelle-Espagne (1811) (Political Essay on the Kingdom of New Spain), Humboldt's Carte du Mexique (1804) was based on existing maps of Mexico, but with Humboldt's careful attention to latitude and longitude. Landing at the Pacific coast port of Acapulco in 1803, Humboldt did not leave the port area for Mexico City until he produced a map of the port; when leaving he drew a map of the east coast port of Veracruz, as well as a map of the central plateau of Mexico. Given royal authorization from the Spanish crown for his trip, crown officials in Mexico were eager to aid Humboldt's research. He had access to José Antonio de Alzate y Ramírez's Mapa del Arzobispado de México (1768), which he deemed "very bad", as well as the seventeenth-century map of greater Mexico City by savant Don Carlos de Sigüenza y Góngora.[125]
+
+John Disturnell, a businessman and publisher of guidebooks and maps, published Mapa de los Estados Unidos de Méjico, which was used in the negotiations between the U.S. and Mexico in the Treaty of Guadalupe Hidalgo (1848), following the Mexican–American War, based on the 1822 map by U.S. cartographer Henry Schenck Tanner.[126] This map has been described as showing U.S. Manifest Destiny; a copy of the map was offered for sale in 2016 for $65,000. Map making at that time was important for both Mexico and the United States.[127]
+
+The Greenwich prime meridian became the international standard reference for cartographers in 1884.
+
+20th-century developments
+During the 20th century, maps became more abundant due to improvements in printing and photography that made production cheaper and easier. Airplanes made it possible to photograph large areas at a time.
+
+Two-point equidistant projection was first drawn up by Hans Maurer in 1919. In this projection the distance from any point on the map to either of the two regulating points is accurate.[74]
+
+The loximuthal projection was constructed by Karl Siemon in 1935 and refined by Waldo Tobler in 1966.[74]
+
+Since the mid-1990s, the use of computers in map making has helped to store, sort, and arrange data for mapping in order to create map projections.[128]
+
+Contemporary developments
+Software development
+See also: Web mapping
+Nowadays map-making heavily relies on computer software to develop and provide a variety of services, a trend that already started at the end of the previous century. For instance, self-location, browser search of places, business, products, and area, and distance calculation. At the present time, computer-based software is dominated by big companies that offer their services to a worldwide public, such as Google Maps, Apple Maps, Bing Maps, National Geographic Maps, ESRI Geographic Information System (GIS), CartoDB, Mapbox, Waze, etc. Many other state-based, regional and smaller initiatives, and companies offer their services. The list of online map services is quite long and is growing every day.
+
+Historical map collections
+See also: Historical geographic information system
+Recent development also include the integration of ancient maps and modern scholar research combined with modern computer software to elaborate periodical history maps. Initiatives such as Euratlas History Maps (which covers the whole of Europe from the year 1 AD to the present), Centennia Historical Atlas (which covers Europe from the year 1000AD to the present), Geacron, and many others who work in what is called historical cartography. These maps include evolution of countries, provinces and cities, wars and battles, the history of border changes, etc.
+
+Today historical cartography is thriving. The specialization of map services is ever growing. New map projections are still being developed, university map collections, such as Perry–Castañeda Library Map Collection at the University of Texas, offer better and more diverse maps and map tools every day, making available for their students and the broad public ancient maps that in the past were difficult to find. David Rumsey Historical Map Collection is nowadays a worldwide known initiative.
+
+Self-publishing tools and collaborative mapping
+See also: Collaborative mapping
+Never in the past there were many "edit-yourself" map tools and software available for non-specialist. Map blogs and self-publishing are common.[citation needed] In 2004, Steve Coast created OpenStreetMap, a collaborative project to create a free editable map of the world. The creation and growth of OpenStreetMap has been motivated by restrictions on use or availability of map information across much of the world, and the advent of inexpensive portable satellite navigation devices.[129][130]
+
+Organizations
+In 1921, the International Hydrographic Organization (IHO) was set up, and it constitutes the authority on hydrographic surveying and nautical charting.[131] The current defining document is the Special publication S-23, Limits of Oceans and Seas, 3rd edition, 1953. The second edition dated back to 1937, and the first to 1928. A fourth edition draft was published in 1986 but so far several naming disputes (such as the one over the Sea of Japan) have prevented its ratification.
+
+History of cartography's technological changes
+Further information: Cartography § Technological changes
+
+A portrait of a mapmaker looking up intently from his charts and holding a caliper, 1714.
+In cartography, technology has continually changed in order to meet the demands of new generations of mapmakers and map users. The first maps were manually constructed with brushes and parchment and therefore varied in quality and were limited in distribution. The advent of the compass, printing press, telescope, sextant, quadrant and vernier allowed for the creation of far more accurate maps and the ability to make accurate reproductions. Professor Steven Weber of the University of California, Berkeley, has advanced the hypothesis that the concept of the "nation state" is an inadvertent byproduct of 15th-century advances in map-making technologies.[94][95]
+
+Advances in photochemical technology, such as the lithographic and photochemical processes, have allowed for the creation of maps that have fine details, do not distort in shape and resist moisture and wear. This also eliminated the need for engraving which further shortened the time it takes to make and reproduce maps.
+
+
+A US civil war hachure paper map made in 1867 by Cartographer Nathaniel Michler vs. modern aerial photos over Chancellorsville, Virginia[132]
+In the mid-to-late 20th century, advances in electronic technology have led to further revolution in cartography. Specifically computer hardware devices such as computer screens, plotters, printers, scanners (remote and document) and analytic stereo plotters along with visualization, image processing, spatial analysis and database software, have democratized and greatly expanded the making of maps, particularly with their ability to produce maps that show slightly different features, without engraving a new printing plate. See also digital raster graphic and History of web mapping.
+
+
+Aerial photography and satellite imagery have provided high-accuracy, high-throughput methods for mapping physical features over large areas, such as coastlines, roads, buildings, and topography.[132]
+
+See also
+	Maps portal
+	World portal
+City map – large-scale thematic map of a citys
+Early world maps – List of early depictions of the world
+Forma Urbis Romae – Marble map of ancient Rome (c.205-208)
+Geographic information system – System to capture, manage and present geographic data
+Great Trigonometrical Survey – 19th-century survey to measure the Indian subcontinent (India)
+Here be dragons – Phrase used on maps to indicate uncharted areas
+History of Cartography Project – Publishing project in the Department of Geography at the University of Wisconsin–Madison
+Early modern Iberian (Spanish and Portuguese) cartography
+Early modern Netherlandish (Dutch and Flemish) cartography
+Cartography of India – Overview of the cartography of India
+List of cartographers
+List of historical maps
+Map projection – Systematic representation of the surface of a sphere or ellipsoid onto a plane
+Mappa mundi – Medieval European maps of the world
+Pictorial maps – Map that uses pictures to represent features
+Principal Triangulation of Great Britain – 1791–1853 geodetic survey of Britain
+Terra incognita – "Unknown land", area not mapped by cartographers
+The Royal Thai Survey Department – military unit
+Web mapping – Process of using the maps delivered by geographic information systems (GIS) in World Wide Web
+World map – Map of most or all of the surface of the Earth
+Related histories
+History of geography – Aspect of history
+History of geodesy
+History of navigation – Intersection of history and navigation
+History of surveying – Science of determining the positions of points and the distances and angles between them
+History of cadastre – Comprehensive register of the real estate or real property's metes-and-bounds of a country
+History of topographic mapping – Medium to large scale map that shows a precise map of the terrain
+Notes
+ For a value of a 185 m or 607 ft per stadion.
+ See the discussion in Gerardus Mercator#The question of nationality.
+ See the discussion in Mercator projection#Uses
+ See the discussion in Gerardus Mercator#Duisburg 1552–1594
+ See the discussion in Gerardus Mercator#atlas1595.
+Citations
+ Wolodtschenko, Alexander; Forner, Thomas (2007). "Prehistoric and Early Historic Maps in Europe: Conception of Cd-Atlas" (PDF). E-perimetron. 2 (2). ISSN 1790-3769. Retrieved 2015-01-24.
+ Schøyen Collection, MS 5087/36, Cylcon (Yurda), possibly with map of Darling River Archived 2022-04-24 at the Wayback Machine, commentary.
+ "Ice Age star map discovered". BBC News. 9 August 2000.
+ "Astronomical Artefacts and Cuneiform Tablets, etc". Web Site For Gary D. Thompson, West Melton, Australia. Archived from the original on 2007-01-30. Retrieved 2008-05-15.
+ "Published scientific papers - MR". Institute for Interdisciplinary Studies. Archived from the original on 2008-08-28. Retrieved 2008-05-15.
+ Frenz, Thomas. "Tutorials in the History of Cartography – Overview". Archived from the original on 2006-07-06.
+ Choi, Charles; Catherine Brahic (2009). "Found: a pocket guide to prehistoric Spain". New Scientist. 203 (2720): 8–9. doi:10.1016/S0262-4079(09)62055-8.
+ Utrilla, P; C. Mazo; M. C. Sopena; M. Martínez-Bea; R. Domingo (2009). "A palaeolithic map from 13,660 calBP: engraved stone blocks from the Late Magdalenian in Abauntz Cave (Navarra, Spain)". Journal of Human Evolution. 57 (2): 99–111. doi:10.1016/j.jhevol.2009.05.005. PMID 19625071.
+ "henrydavis.com-Ancient Images". Henry Davis Consulting.
+ Meece, Stephanie (2006). "A bird's eye view – of a leopard's spots. The Çatalhöyük 'map' and the development of cartographic representation in prehistory". DSpace @ Cambridge.
+ Clement Nicolas, Yvan Pailler, Pierre Stéphan, Julie Pierson, Laurent Aubry, et al.. La carte et le territoire : la dalle gravée du Bronze ancien de Saint-Bélec (Leuhan, Finistère). Bulletin de la Société préhistorique française, Société préhistorique française, 2021, 118 (1), pp.99–146. Online at https://www.prehistoire.org/shop_515-47906-5446-800/04-2021-tome-118-1-p.-99-146-c.-nicolas-y.-pailler-p.-stephan-j.-pierson-l.-aubry-b.-le-gall-b.-le-gall-v.-lacombe-j.-rolet-la-carte-et-le-territoire-la-dalle-gravee-du-bronze-ancien-de-saint-belec-leuhan-finistere.html
+ "The History of Cartography Book Series". Archived from the original on 2006-07-16.
+ "Slide #100: The Earliest Known Map". Henry Davis Consulting.
+ "Ancient map of Nippur, Kassite period". The Nippur Expedition. Oriental Institute, University of Chicago. Archived from the original on 2008-09-05. Retrieved 2006-06-20.
+ Friis, Herman Ralph (1967). The Pacific Basin: A History of Its Geographical Exploration. American Geographical Society. p. 19.
+ Panchenko, Dmitri (2008). "Parmenides, the Nile and the Circumnavigation of Africa by the Phoenicians". Libyae lustrare extrema. University of Seville. pp. 189–194. ISBN 9788447211562.
+ Brown[full citation needed]
+ Thompson, 21
+ Kirsh, 1[full citation needed]
+ Keane, 6–7[full citation needed]
+ "henry-davis-image". Henry Davis Consulting.
+ Dilke[full citation needed]
+ Goode, 2[full citation needed]
+ Tozer, 63[full citation needed]
+ Stallard, Avan Judd (2013). "Origins of the Idea of Antipodes: Errors, Assumptions, and a Bare Few Facts". Terrae Incognitae. 42 (1): 34–51. doi:10.1179/008228810x12755564743525. S2CID 129758198.
+ "Slide #219: World Maps of al-Idrisi". Henry Davis Consulting.
+ Noble, 27[full citation needed]
+ Russo, Lucio (2004). The Forgotten Revolution. Berlin: Springer. p. 273–277.
+ "henry davis-ancient images". Henry Davis Consulting.
+ Cicéron; Marcus Tullius Cicero (6 April 1995). Cicero De Re Publica. Cambridge University Press. pp. 244–. ISBN 978-0-521-34896-6.
+ Eratosthenes (4 January 2010). Eratosthenes' Geography. Princeton University Press. pp. 111–. ISBN 978-1-4008-3221-7.
+ “Notes on Ancient Times in Malaya” Roland Braddell. Journal of the Malayan Branch of the Royal Asiatic Society, Vol. 23, No. 3 (153) 1947 (1950), p. 9
+But what we really want to know is to what extent the Alexandrian mathematicians of the period from the first to the fifth centuries C.E. were Greek. Certainly, all of them wrote in Greek and were part of the Greek intellectual community of Alexandria. And most modern studies conclude that the Greek community coexisted ... So should we assume that Ptolemy and Diophantus, Pappus and Hypatia were ethnically Greek, that their ancestors had come from Greece at some point in the past but had remained effectively isolated from the Egyptians? It is, of course, impossible to answer this question definitively. But research in papyri dating from the early centuries of the common era demonstrates that a significant amount of intermarriage took place between the Greek and Egyptian communities ... And it is known that Greek marriage contracts increasingly came to resemble Egyptian ones. In addition, even from the founding of Alexandria, small numbers of Egyptians were admitted to the privileged classes in the city to fulfill numerous civic roles. Of course, it was essential in such cases for the Egyptians to become "Hellenized", to adopt Greek habits and the Greek language. Given that the Alexandrian mathematicians mentioned here were active several hundred years after the founding of the city, it would seem at least equally possible that they were ethnically Egyptian as that they remained ethnically Greek. In any case, it is unreasonable to portray them with purely European features when no physical descriptions exist.
+
+— Victor J. Katz (1998). A History of Mathematics: An Introduction, p. 184. Addison Wesley, ISBN 0-321-01618-1
+ George Sarton (1936). "The Unity and Diversity of the Mediterranean World", Osiris 2, pp. 406–463 [429].
+ John Horace Parry (1981). The Age of Reconnaissance, p. 10. University of California Press. ISBN 0-520-04235-2.
+ "Ptolemy's Map". Case Western Reserve University.
+ Bell, Bethany (November 26, 2007). "Ancient Roman road map unveiled". BBC News, Vienna.
+ Hsu, Mei-ling (1993). "The Qin maps: A clue to later Chinese cartographic development". Imago Mundi. 45 (1): 90–100. doi:10.1080/03085699308592766. JSTOR 1151164.
+ Behr, Wolfgang (2007). "Placed into the Right Position – Etymological Notes in Tu and Congeners". In Bray, Francesca; Dorofeeva-Lichtmann, Vera; Métailié, Georges (eds.). Graphics and Text in the Production of Technical Knowledge in China: The Warp and the Weft. Brill. p. 113. ISBN 978-90-04-16063-7.
+ Yi, Xumei; Liu, Xiuwen (2010). "The calligraphy and printing cultural heritage of Gansu – the development of the engraved printing process and papermaking: an archaeological approach". In Allen, Susan M.; Lin, Zuzao; Cheng, Xiaolan; et al. (eds.). The History and Cultural Heritage of Chinese Calligraphy, Printing and Library Work. Walter de Gruyter. p. 64. ISBN 978-3-598-44179-0.
+ Needham, Joseph (1959). "Science and Civilisation in China". Mathematics and the Sciences of the Heavens and the Earth. Vol. 3. Cambridge, UK: Cambridge University Press – via Taipei: Caves Books, 1986.
+ Hansen, Valerie (2000). The Open Empire: A History of China to 1600. New York, USA & London, UK: W.W. Norton & Company. p. 125. ISBN 978-0-393-97374-7.
+ Nelson, Howard (1974). "Chinese Maps: An Exhibition at the British Library". The China Quarterly. 58 (58): 357–362. doi:10.1017/S0305741000011346. JSTOR 652406. S2CID 154338508.
+ Hargett, James M. (1996). "Song dynasty Local Gazetteers and Their Place in The History of Difangzhi Writing". Harvard Journal of Asiatic Studies. 56 (2): 405–442. doi:10.2307/2719404. JSTOR 2719404.
+ Jacques Gernet (31 May 1996). A History of Chinese Civilization. Cambridge University Press. pp. 339–. ISBN 978-0-521-49781-7.
+ Smith, Richard J. (October 28, 1996). "Mapping China's World: Cultural Cartography in Late Imperial Times".
+ Sivin, Nathan (1995). Science in Ancient China. Vol. III. Brookfield, USA: Variorum, Ashgate Publishing. p. 22.
+ Wright, David Curtis (2001). The History of China. Westport: Greenwood Press. p. 213.
+ Muginov-Persidkaya unikal'naya rukopis, pp.373[full citation needed]
+ Jackson, Peter (2005). The Mongols and the West, 1221–1410. Pearson Longman. p. 127. ISBN 978-0-582-36896-5.
+ Allsen, Thomas T. (2004). Culture and Conquest in Mongol Eurasia. Cambridge, UK: Cambridge University Press. p. 107. ISBN 978-0-521-60270-9.
+ Rashid/Boyle, pp.276[full citation needed]
+ Herb, G. Henrik (1994). "Mongolian cartography". In Harley, J. B.; Woodward, David (eds.). History of Cartography. Vol. II-2. University of Chicago Press. pp. 682–85.
+ Poppe, Nicholas (June 1956). "On Some Geographic Names in The J̌amī' al-Tawārīx". Harvard Journal of Asiatic Studies. Harvard-Yenching Institute. 19 (1/2): 33–41. doi:10.2307/2718487. JSTOR 2718487.
+ Hedin, Sven (1922). Southern Tibet. Vol. III. Stockholm. p. 278.[publisher missing]
+ Ptak, Roderich. "The Sino-European Map (Shanhai yudi quantu) in the Encyclopedia Sancai Tuhui Archived 2008-10-21 at the Wayback Machine".
+ Japan and China: mutual representations in the modern era Wataru Masuda p.17 [1] Archived 2022-11-19 at the Wayback Machine
+ Park, Seongrae (2000), "The Introduction of Western Science in Korea: A Comparative View with the Cases of China and Japan" (PDF), Northeast Asian Studies, vol. 4, p. 32.
+ Wigal, Donald (2000). Historic Maritime Maps. New York: Parkstone Press. p. 202. ISBN 1-85995-750-1.
+ "U21 Museums Gateway". Archived from the original on 2009-09-30. Retrieved 2009-12-21.
+ Batchelor, "The Selden Map Rediscovered," 37; David Helliwell and Robert Batchelor, "The Selden Map of China" (2011) http://seldenmap.bodleian.ox.ac.uk/ Archived 2016-05-12 at the Wayback Machine
+ Sally Church (2008). by Helaine Selin (ed.). Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures (2nd ed.). Springer. pp. 2354–2355. ISBN 978-1402045592.
+ Brook, Timothy (1998). The Confusions of Pleasure: Commerce and Culture in Ming China. Berkeley, USA: University of California Press. p. 15. ISBN 978-0-520-22154-3.
+ Cartography of Korea, pgs. 235–345, Gari Ledyard al., (Department of Geography, University of Wisconsin, Madison), The History of Cartography, Volume Two, Book Two, Cartography in Traditional East and Southeast Asian Societies, 1994, The University of Chicago Press, J. B. Harley and David Woodward ed., (Department of Geography, University of Wisconsin, Milwaukee, WI / Department of Geography, University of Wisconsin, Madison, WI), pgs. slip cover, 243–247, ISBN 0-226-31637-8.
+ Short, John Rennie. The World Through Maps (Firefly Books, 2003) pg.81
+ "Japanese Cartography". Tofugu. 7 April 2011.
+ Karacas, Cary; Fumiko, Sugimoto; Wigen, Karen (2016). Cartographic Japan. University of Chicago Press.
+ Sircar, D. C. C. (January 1990). Studies in the Geography of Ancient and Medieval India. Motilal Banarsidass Publishers. ISBN 978-81-208-0690-0.
+ Edson and Savage-Smith (2004)[full citation needed]
+ Kennedy, Edward S. (1996). "Mathematical Geography". In Rashed, Roshdi; Morelon, Régis (eds.). Encyclopedia of the History of Arabic Science. Vol. 3. Routledge. pp. 185–201. ISBN 978-0-415-12410-2.
+ Koetsier, T.; Bergmans, L. (2005). Mathematics and the Divine. Elsevier. p. 169. ISBN 978-0-444-50328-2.
+ O'Connor, John J.; Robertson, Edmund F., "Abu Arrayhan Muhammad ibn Ahmad al-Biruni", MacTutor History of Mathematics Archive, University of St Andrews
+ King, David A. (1996). "Astronomy and Islamic society: Qibla, gnomics and timekeeping". In Rashed, Roshdi (ed.). Encyclopedia of the History of Arabic Science. Vol. 1. London, UK and New York, USA: Routledge. pp. 128–184.
+ Rankin, Bill (2006). "Projection Reference". Radical Cartography.
+ O'Connor, John J.; Robertson, Edmund F., "Cartography", MacTutor History of Mathematics Archive, University of St Andrews
+ Covington, Richard (2007). "Nation, identity and the fascination with forensic science in Sherlock Holmes and CSI". Saudi Aramco World, May–June 2007. 10 (3): 17–21. doi:10.1177/1367877907080149. S2CID 145173935. Archived from the original on 2008-05-12. Retrieved 2008-07-06.
+ Lenn Evan Goodman (1992), Avicenna, p. 31, Routledge, ISBN 0-415-01929-X.
+ Behnaz Savizi (2007), "Applicable Problems in History of Mathematics: Practical Examples for the Classroom", Teaching Mathematics and Its Applications, Oxford University Press, 26 (1): 45–50, doi:10.1093/teamat/hrl009 (cf. Behnaz Savizi. "Applicable Problems in History of Mathematics; Practical Examples for the Classroom". University of Exeter. Retrieved 2010-02-21.)
+ Beatrice Lumpkin (1997), Geometry Activities from Many Cultures, Walch Publishing, pp. 60 & 112–3, ISBN 0-8251-3285-1 [2] Archived 2022-11-19 at the Wayback Machine
+ David A. King (1996), "Astronomy and Islamic society: Qibla, gnomics and timekeeping", in Roshdi Rashed, ed., Encyclopedia of the History of Arabic Science, Vol. 1, pp. 128–184 [153]. Routledge, London and New York.
+ Starr, S. Frederick (12 December 2013). "So, Who Did Discover America? | History Today". History Today. Retrieved 2018-07-06.
+ Kamiar, M. (2008). Brilliant Biruni: A Life Story of Abu Rayhan Mohammad Ibn Ahmad. Scarecrow Press. p. 156. ISBN 9780810862449.
+ Scott, S. P. (1904). History of the Moorish Empire in Europe. Harvard University Press. pp. 461–2.
+ Glick, Thomas F.; Livesey, Steven; Wallis, Faith (2014). Medieval Science, Technology, and Medicine: An Encyclopedia. Routledge. p. 261. ISBN 9781135459321.
+ Soucek, Svat (1987). "Islamic Charting in the Mediterranean" (PDF). History of Cartography. Vol. II-1. pp. 263–292.
+ McIntosh, Greg (2000). The Piri Reis Map of 1513. University of Georgia Press. ISBN 978-0-8203-2157-8.
+ Hamdani, Abbas (July–September 1981). "Ottoman Response to the Discovery of America and the New Route to India". Journal of the American Oriental Society. American Oriental Society. 101 (3): 327. doi:10.2307/602594. JSTOR 602594.
+ Papp-Váry, Árpád (2005). "Egy térképészeti rejtély: Piri Reis Dél-Amerika térképe" [A cartographic mystery: the Piri Reis map of South America]. Földrajzi Kõzlemények (in Hungarian). Hungary. 53 (3–4): 177–187.
+ Adolf Erik Nordenskiöld (1889). Facsimile-atlas to the Early History of Cartography: With Reproductions of the Most Important Maps Printed in the XV and XVI Centuries. Kraus. pp. 51, 64.
+ Aczel, Amir D. (2001). The riddle of the compass: the invention that changed the world. Orlando: Harcourt Books. p. 125. ISBN 978-0-15-600753-5.
+ Lionel and Patricia Fanthorpe (12 November 2014). Mysteries and Secrets: The 16-Book Complete Codex: Mysteries and Secrets of Numerology / Mysteries and Secrets of the Masons / and 14 more. Dundurn. pp. 1420–. ISBN 978-1-4597-3092-2.
+ "A traditional Marshall Islands sea-chart". she-philosopher.com. August 29, 2006.
+ "Spirit of Aloha – Aloha Airlines' in-flight magazine with information on Hawaii vacations, Hawaiian island maps and the best places to travel in Hawaii". Archived from the original on 2006-01-12. Retrieved 2006-06-20.
+ "How Maps Made the World". Wilson Quarterly. Summer 2011. Archived from the original on August 11, 2011. Retrieved 28 July 2011.
+ Branch, Jordan (2011). "Mapping the Sovereign State: Technology, Authority, and Systemic Change". International Organization. University of California, Berkeley. 65 (1): 1–36. doi:10.1017/S0020818310000299. Retrieved March 5, 2012.
+ Alonso de Santa Cruz, cartógrafo y fabricante de instrumentos náuticos de la Casa de Contratación, Mariano Cuesta Domingo, Revista Complutense de Historia de América, Vol 30, pages 7–40, 2004.
+ Lamb, Ursula S. (1974). "The Spanish Cosmographic Juntas of the Sixteenth Century". Terrae Incognitae. 6 (1): 51–62. doi:10.1179/tin.1974.6.1.51.
+ Latorre y Setien, Germán (1913). "Los geógrafos españoles del siglo XVI". Boletín del Instituto de Estudios Americanistas. 1 (2): 29–51.
+ "Early Spanish Cartography in the New World." American Antiquarian Society Proceedings, (n.s.) vol. 19(1909)369–419.
+ "Slide #64: Carta Universal". Henry Davis Consulting.
+ Barbara Mundy, The Mapping of New Spain: Indigenous Cartography and the Maps of the Relaciones Geográficas. Chicago: University of Chicago Press 1996, pp. 11–12.
+ Carhart, George S.: Frederick de Wit and the First Concise Reference Atlas. (BRILL, 2016, ISBN 9789004299030)
+ See the preface to the 1595 posthumous section of Mercator's atlas as translated in Sullivan (2000), pp34–38 (PDF pp103–108)
+ Goffart, Walter (2003). Historical Atlases: The First Three Hundred Years, 1570–1870, p. 1
+ Henzel, Cynthia Kennedy (2010). Creating Modern Maps, p. 6
+ Bagrow, Leo (2010). History of Cartography, p. 159
+ Hewitt, Rachel (2011). Map of a Nation: A Biography of the Ordnance Survey. "Triangulation had first emerged as a map-making method in the mid sixteenth century when the Flemish mathematician Gemma Frisius set out the idea in his Libellus de locorum describendorum ratione (Booklet concerning a way of describing places), and by the turn of the eighteenth century it had become the most respected surveying technique in use."
+ Kirby, Richard Shelton et al. (1990). Engineering in History, p. 131
+ Harwood, Jeremy (2006). To the Ends of the Earth: 100 Maps that Changed the World, p. 107
+ Devreese, Jozef T.; Vanden Berghe, Guido (2009). Magic is No Magic: The Wonderful World of Simon Stevin, p. 272
+ Struik, Dirk J. (1981). The Land of Stevin and Huygens: A Sketch of Science and Technology in the Dutch Republic during the Golden Century, p. 37
+ Kirby, David; Hinkkanen, Merja-Liisa (2000). The Baltic and the North Seas, pp. 61–62
+ Buisseret, David (2003). The Mapmakers' Quest: Depicting New Worlds in Renaissance Europe
+ Harwood, Jeremy (2006). To the Ends of the Earth: 100 Maps that Changed the World, p. 88
+ Conley, Tom. The Self-Made Map: Cartographic Writing in Early Modern France. Minneapolis: University of Minnesota Press, 1996.
+ Pelletier, Monique. “Cartography and Power in Europe During the Seventeenth and Eighteenth Centuries,” Cartographica 35 (1998).
+ Petrella, Marco. "Guillaume Delisle's Carte du Duche de Bourgogne: The Role of Central and Peripheral Authorities in the Construction of a Provincial Territory in France in the Early 18th Century,” Journal of Map & Geography Libraries 5 (2008): 17–39.
+ Turnbull, David. "Cartography and Science in Early Modern Europe: Mapping the Construction of Knowledge Spaces,” Imago Mundi 48 (1996): 5–24.
+ Crone, G.R. Maps and their Makers. London: Hutchinson & Co, 1953.
+ Pedley, Mary Sponberg. "The Map Trade in Paris, 1650–1825," Imago Mundi 33 (1981).
+ The Editors of Encyclopædia Britannica. "Cesar-Francois Cassini de Thury". Encyclopædia Britannica. Retrieved June 4, 2015.
+ "Topographic Map". How Products are Made.
+ Black, Jeremy (January 2009). "A Revolution in Military Cartography?: Europe 1650–1815". Journal of Military History. 73: 49–68. doi:10.1353/jmh.0.0160. S2CID 129574985.
+ Furuti, Carlos A. (November 18, 2013). "Conic Projections".
+ Magali M. Carrera, Traveling from New Spain to Mexico: Mapping Practices on Nineteenth-century Mexico. Durham: Duke University Press 2011, pp. 74–75.
+ Carrera, Traveling from New Spain to Mexico, pp. 104–105.
+ Paula Rebert, La Gran Línea: Mapping the United States-Mexico Boundary, 1849–1857. Austin: University of Texas Press 2001.
+ "Lesson 1: History of Cartography". Archived from the original on 2009-07-04. Retrieved 2006-06-20.
+ Anderson, Mark (18 October 2006). "Global Positioning Tech Inspires Do-It-Yourself Mapping Project". National Geographic News. Retrieved 25 February 2012.
+ Lardinois, Frederic (9 August 2014). "For the Love of Mapping Data". TechCrunch. Retrieved 29 July 2017.
+ "International Hydrographic Organization". 15 March 2013. Retrieved 14 September 2013.
+ Liu, Dan; Toman, Elizabeth; Fuller, Zane; Chen, Gang; Londo, Alexis; Xuesong, Zhang; Kaiguang, Zhao (2018). "Integration of historical map and aerial imagery to characterize long-term land-use change and landscape dynamics: An object-based analysis via Random Forests" (PDF). Ecological Indicators. 95 (1): 595-605. doi:10.1016/j.ecolind.2018.08.004. S2CID 92025959.
+References
+Bagrow, L. (1986). History of Cartography. revised by R. A. Skelton. Transaction Publishers.
+Crawford, P. V. (1973). "The perception of graduated squares as cartographic symbols". The Cartographic Journal. 10 (2): 85–88. doi:10.1179/caj.1973.10.2.85.
+Edney, Matthew H.; Pedley, Mary S. (eds.). "Cartography in the European Enlightenment". The History of Cartography. Vol. 4. Chicago and London: University of Chicago Press.
+ESRI (2004). ESRI Cartography: Capabilities and Trends. Redlands.
+Harley, J. B.; Woodward, David, eds. (1987). "Cartography in Prehistoric, Ancient, and Medieval Europe and the Mediterranean". The History of Cartography. Vol. 1. Chicago and London: University of Chicago Press. ISBN 978-0-226-31633-8.
+Harley, J. B.; Woodward, David, eds. (1987). "Cartography in the Traditional Islamic and South Asian Societies". The History of Cartography. Vol. II-1. Chicago and London: University of Chicago Press. ISBN 978-0-226-31635-2.
+Harley, J. B.; Woodward, David, eds. (1987). "Cartography in the Traditional East and Southeast Asian Societies". The History of Cartography. Vol. II-2. Chicago and London: University of Chicago Press. ISBN 978-0-226-31637-6.
+Harley, J. B.; Woodward, David, eds. (1987). "Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies". The History of Cartography. Vol. II-3. Chicago and London: University of Chicago Press. ISBN 978-0-226-90728-4.
+"Harvard Graduate School of Design". 2005. Archived from the original on 2006-06-16.
+Imus, D.; Dunlavey, P (2002). Back to the Drawing Board: Cartography vs the Digital Workflow. Hood, Oregon: MT.
+Jeer, S. (1997). Traditional Color Coding for Land Uses. American Planning Association. pp. 4–5.
+Kain, Roger J. P (ed.). "Cartography in the 19th century". The History of Cartography. Vol. 5. Chicago and London: University of Chicago Press.
+MacEachren, A.M. (1994). Some Truth with Maps: A Primer on Symbolization & Design. University Park: The Pennsylvania State University.
+MacEachren, A.M. (1995). How Maps Work. New York: The Guilford Press.
+"Map Imitations". Library and Archives Canada. Archived from the original on 2016-03-22. Retrieved 2007-04-25.
+Monmonier, Mark (1991). How to Lie with Maps. Chicago: University of Chicago Press. ISBN 978-0-226-53421-3.
+Monmonier, Mark (1993). Mapping It Out. Chicago: University of Chicago Press.
+Monmonier, Mark, ed. (2015). "Cartography in the Twentieth Century". The History of Cartography. Vol. 6. Chicago and London: University of Chicago Press. ISBN 978-0-226-53469-5.
+Olson, Judy M. (1975). "Experience and the improvement of cartographic communication". The Cartographic Journal. 12 (2): 94–108. doi:10.1179/caj.1975.12.2.94.
+Phillips, R.; De Lucia, A.; Skelton, A. (1975). "Some Objective Tests of the Legibility of Relief Maps". The Cartographic Journal. 12: 39–46. doi:10.1179/caj.1975.12.1.39.
+Phillips, R.; Noyes, L. (1980). "A Comparison of Color and Visual Texture as Codes for use as Area Symbols on Relief Maps". Ergonomics. 23 (12): 1117–28. doi:10.1080/00140138008924818. PMID 28080606.
+Pickles, John (2003). A History of Spaces: Cartographic Reason, Mapping, and the Geo-Coded World. Taylor & Francis. ISBN 978-0-415-14497-1.
+Rice, M.; Jacobson, R.; Golledge, R.; Jones, D.; Pallavaram, S. (2003). "Object Size Discrimination and Non-visual Cartographic Symbolization". Proceedings, American Congress on Surveying and Mapping (ACSM) Annual Conference. 29: 1–12.
+Robinson, A.H. (1953). Elements of Cartography. New York: John Wiley & Sons.
+Robinson, Arthur H. (1982). Early Thematic Mapping in the History of Cartography. Chicago: The University of Chicago Press.
+Slocum, T. (1999). Thematic Cartography and Geographic Visualization. Upper Saddle River, New Jersey: Prentice Hall.
+Singaravélou, P.; Argounès, F. (2021). Mapping the World. Perspectives from Asian Cartography. Singapore: National Library of Singapore.
+Sullivan, David (2000), A translation of the full text of the Mercator atlas of 1595 (PDF), archived from the original (PDF) on 2016-03-10
+Wilford, John Noble (2000). The Mapmakers. Vintage Books. ISBN 978-0-375-70850-3.
+Woodward, David, ed. (1987). "Cartography in the European Renaissance". The History of Cartography. Vol. 3. Chicago and London: University of Chicago Press. ISBN 978-0-226-90733-8.
+"A Mathematical Method for Visualizing Ptolemy's India in Modern GIS Tools".
+External links
+
+Wikimedia Commons has media related to Historical maps.
+Imago Mundi journal of History of Cartography
+The History of Cartography journal published by the University of Chicago Press
+Euratlas Historical Maps History maps from year zero AD
+The History of Cartography Project at the University of Wisconsin, a comprehensive research project in the history of maps and mapping
+Three volumes of The History of Cartography are available free in PDF format
+The history of cartography at the School of Mathematics and Statistics, University of St. Andrews, Scotland
+Mapping History – a learning resource from the British Library
+Modern Medieval Map Myths: The Flat World, Ancient Sea-Kings, and Dragons
+Concise Bibliography of the History of Cartography, Newberry Library
+Newberry Library Cartographic Catalog : map catalog and bibliography of the history of cartography
+American Geographical Society Library Digital Map Collection
+David Rumsey Historical map collection licensed under a Creative Commons License
+See Maps for more links to historical maps; however, most of the largest sites are listed at the sites linked below.
+
+Eratosthenes Map of the Earth, and Measuring of its Circumference at Convergence
+Ancient World Maps
+A listing of over 5000 websites describing holdings of manuscripts, archives, rare books, historical photographs, and other primary sources for the research scholar
+Historical Atlas in Persuasive Cartography, The PJ Mode Collection, Cornell University Library
+Old Maps Online
+vte
+Cartography topics
+vte
+Atlas
+Categories: History of cartographyHistory of science by discipline
+This page was last edited on 13 September 2023, at 19:25 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
+Toggle limited content width
