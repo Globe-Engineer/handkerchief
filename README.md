@@ -23,3 +23,6 @@ See the `test()` function for an example of running handkerchief. RAG is impleme
 2. It generates a response based on the information found.
 
 **NOTE**: The prompts used in the script are just examples. You should engineer the prompts to suit your specific use case.
+
+---
+made by Ivan Yevenko
